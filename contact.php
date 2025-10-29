@@ -3,6 +3,7 @@
 
 
 <!-- Mirrored from metaryhtml.websitelayout.net/contact.html by HTTrack Website Copier/3.x [XR&CO'2014], Tue, 28 Oct 2025 11:41:28 GMT -->
+
 <head>
 
     <!-- metas -->
@@ -11,7 +12,8 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="keywords" content="Industry & Factory HTML Template">
-    <meta name="description" content="Metary is a modern, responsive HTML template designed for industrial, factory, and power‑technology businesses. Featuring ready‑made pages like Services, Portfolio, Blog, Team, Pricing, and Contact.">
+    <meta name="description"
+        content="Metary is a modern, responsive HTML template designed for industrial, factory, and power‑technology businesses. Featuring ready‑made pages like Services, Portfolio, Blog, Team, Pricing, and Contact.">
 
     <!-- title  -->
     <title>Metary – Industry & Factory HTML Template | Power & Automation Technologies</title>
@@ -35,7 +37,7 @@
     <link rel="stylesheet" href="css/scrollbar.css">
 
     <!-- theme core css -->
-    <link href="css/styles.css" rel="stylesheet">    
+    <link href="css/styles.css" rel="stylesheet">
 
 </head>
 
@@ -51,139 +53,21 @@
 
         <!-- HEADER
         ================================================== -->
-        <header class="header-style1 menu_area-light">
+        <?php include "includes/header.php" ?>
 
-            <div class="navbar-default border-bottom border-color-light-white">
-
-                <!-- start top search -->
-                <div class="top-search bg-primary">
-                    <div class="container-fluid px-lg-1-6 px-xl-2-5 px-xxl-2-9">
-                        <form class="search-form" action="search.html" method="GET" accept-charset="utf-8">
-                            <div class="input-group">
-                                <span class="input-group-addon cursor-pointer">
-                                    <button class="search-form_submit fas fa-search text-white" type="submit"></button>
-                                </span>
-                                <input type="text" class="search-form_input form-control" name="s" autocomplete="off" placeholder="Type & hit enter...">
-                                <span class="input-group-addon close-search mt-1"><i class="fas fa-times"></i></span>
-                            </div>
-                        </form>
-                    </div>
-                </div>
-                <!-- end top search -->
-
-                <div class="container-fluid px-lg-1-6 px-xl-2-5 px-xxl-2-9">
-                    <div class="row align-items-center">
-                        <div class="col-12 col-lg-12">
-                            <div class="menu_area alt-font">
-                                <nav class="navbar navbar-expand-lg navbar-light p-0">
-                                    <div class="navbar-header navbar-header-custom">
-                                        <!-- start logo -->
-                                        <a href="index.html" class="navbar-brand"><img id="logo" src="img/logos/logo-inner.png" alt="logo" /></a>
-                                        <!-- end logo -->
-                                    </div>
-
-                                    <div class="navbar-toggler bg-primary"></div>
-
-                                    <!-- start menu area -->
-                                    <ul class="navbar-nav ms-auto" id="nav" style="display: none;">
-                                        <li><a href="#">Home</a>
-                                            <ul>
-                                                <li><a href="index.html">Home 01</a></li>
-                                                <li><a href="index-02.html">Home 02 - Dark Menu</a></li>
-                                                <li><a href="index-03.html">Home 03</a></li>
-                                            </ul>
-                                        </li>
-                                        <li>
-                                            <a href="#">Pages</a>
-                                            <ul>
-                                                <li><a href="about.html">About Us</a></li>
-                                                <li><a href="how-we-work.html">How We Work</a></li>
-                                                <li><a href="faq.html">FAQ's</a></li>
-                                                <li>
-                                                    <a href="#">Our Team</a>
-                                                    <ul>
-                                                        <li><a href="team.html">Our Team</a></li>
-                                                        <li><a href="team-details.html">Team Details</a></li>
-                                                    </ul>
-                                                </li>
-                                                <li><a href="pricing.html">Pricing Plans</a></li>
-                                                <li><a href="privacy-policy.html">Privacy Policy</a></li>
-                                                <li><a href="terms-conditions.html">Terms & Conditions</a></li>
-                                                <li><a href="404-page.html">404 Page</a></li>
-                                                <li><a href="coming-soon.html">Coming Soon</a></li>
-                                            </ul>
-                                        </li>
-                                        <li>
-                                            <a href="#">Services</a>
-                                            <ul>
-                                                <li><a href="services.html">Our Services</a></li>
-                                                <li><a href="oil-gas-engineering.html">Oil & Gas Engineering</a></li>
-                                                <li><a href="mechanical-engineering.html">Mechanical Engineering</a></li>
-                                                <li><a href="automotive-manufacturing.html">Automotive Manufacturing</a></li>
-                                                <li><a href="chemical-research.html">Chemical Research</a></li>
-                                                <li><a href="industrial-construction.html">Industrial Construction</a></li>
-                                                <li><a href="civil-engineering.html">Civil Engineerin</a></li>
-                                            </ul>
-                                        </li>
-                                        <li>
-                                            <a href="#">Portfolio</a>
-                                            <ul>
-                                                <li><a href="#">Portfolio Grid</a>
-                                                    <ul>
-                                                        <li><a href="portfolio-two-columns.html">2 Columns</a></li>
-                                                        <li><a href="portfolio.html">3 Columns - Standard</a></li>
-                                                        <li><a href="portfolio-four-columns.html">4 Columns</a></li>
-                                                    </ul>
-                                                </li>
-                                                <li><a href="portfolio-details.html">Portfolio Details</a></li>
-                                            </ul>
-                                        </li>
-                                        <li>
-                                            <a href="#">Blog</a>
-                                            <ul>
-                                                <li><a href="#">Blog Grid</a>
-                                                    <ul>
-                                                        <li><a href="blog-grid-two-columns.html">2 Columns</a></li>
-                                                        <li><a href="blog-grid-two-columns-left-sidebar.html">2 Col – Left Sidebar</a></li>
-                                                        <li><a href="blog-grid-two-columns-right-sidebar.html">2 Col – Right Sidebar</a></li>
-                                                        <li><a href="blog-grid.html">3 Columns - Standard</a></li>
-                                                    </ul>
-                                                </li>
-                                                <li><a href="blog-list.html">Blog List</a></li>
-                                                <li><a href="blog-details.html">Blog Details</a></li>
-                                            </ul>
-                                        </li>
-                                        <li><a href="contact.html">Contact</a></li>
-                                    </ul>
-                                    <!-- end menu area -->
-
-                                    <!-- start attribute navigation -->
-                                    <div class="attr-nav align-items-xl-center ms-xl-auto main-font">
-                                        <ul>
-                                            <li class="search"><a href="#"><i class="fas fa-search"></i></a></li>
-                                            <li class="d-none d-xl-inline-block"><a href="contact.html" class="btn-style1 white-hover small"><span>Free Quote</span></a></li>
-                                        </ul>
-                                    </div>
-                                    <!-- end attribute navigation -->
-                                </nav>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </header>
 
         <!-- PAGE TITLE
         ================================================== -->
-        <section class="page-title-section top-position1 bg-img cover-background left-overlay-secondary" data-overlay-dark="85" data-background="img/banner/page-title-01.jpg">
-            <div class="container">                
+        <section class="page-title-section top-position1 bg-img cover-background left-overlay-secondary"
+            data-overlay-dark="85" data-background="img/banner/page-title-01.jpg">
+            <div class="container">
                 <h1>Contact Us</h1>
                 <ul>
                     <li><a href="index.html">Home</a></li>
                     <li>Contact Us</li>
-                </ul>                
+                </ul>
             </div>
-        </section>        
+        </section>
 
         <!-- CONTACT FORM
         ================================================== -->
@@ -193,16 +77,19 @@
                     <div class="row mt-n2-9">
                         <div class="col-lg-7 mt-2-9">
                             <h2 class="text-secondary mb-4 h1">Write Us Something</h2>
-                            <form class="contact quform" action="quform/contact.php" method="post" enctype="multipart/form-data" onclick="">
+                            <form class="contact quform" action="quform/contact.php" method="post"
+                                enctype="multipart/form-data" onclick="">
                                 <div class="quform-elements">
                                     <div class="row">
 
                                         <!-- Begin Text input element -->
                                         <div class="col-md-6">
                                             <div class="quform-element form-group">
-                                                <label for="name">Your Name <span class="quform-required">*</span></label>
+                                                <label for="name">Your Name <span
+                                                        class="quform-required">*</span></label>
                                                 <div class="quform-input">
-                                                    <input class="form-control" id="name" type="text" name="name" placeholder="Your name here" />
+                                                    <input class="form-control" id="name" type="text" name="name"
+                                                        placeholder="Your name here" />
                                                 </div>
                                             </div>
                                         </div>
@@ -211,9 +98,11 @@
                                         <!-- Begin Text input element -->
                                         <div class="col-md-6">
                                             <div class="quform-element form-group">
-                                                <label for="email">Your Email <span class="quform-required">*</span></label>
+                                                <label for="email">Your Email <span
+                                                        class="quform-required">*</span></label>
                                                 <div class="quform-input">
-                                                    <input class="form-control" id="email" type="text" name="email" placeholder="Your email here" />
+                                                    <input class="form-control" id="email" type="text" name="email"
+                                                        placeholder="Your email here" />
                                                 </div>
                                             </div>
                                         </div>
@@ -222,9 +111,11 @@
                                         <!-- Begin Text input element -->
                                         <div class="col-md-6">
                                             <div class="quform-element form-group">
-                                                <label for="subject">Your Subject <span class="quform-required">*</span></label>
+                                                <label for="subject">Your Subject <span
+                                                        class="quform-required">*</span></label>
                                                 <div class="quform-input">
-                                                    <input class="form-control" id="subject" type="text" name="subject" placeholder="Your subject here" />
+                                                    <input class="form-control" id="subject" type="text" name="subject"
+                                                        placeholder="Your subject here" />
                                                 </div>
                                             </div>
                                         </div>
@@ -235,7 +126,8 @@
                                             <div class="quform-element form-group">
                                                 <label for="phone">Contact Number</label>
                                                 <div class="quform-input">
-                                                    <input class="form-control" id="phone" type="text" name="phone" placeholder="Your phone here" />
+                                                    <input class="form-control" id="phone" type="text" name="phone"
+                                                        placeholder="Your phone here" />
                                                 </div>
                                             </div>
                                         </div>
@@ -244,9 +136,11 @@
                                         <!-- Begin Textarea element -->
                                         <div class="col-md-12">
                                             <div class="quform-element form-group">
-                                                <label for="message">Message <span class="quform-required">*</span></label>
+                                                <label for="message">Message <span
+                                                        class="quform-required">*</span></label>
                                                 <div class="quform-input">
-                                                    <textarea class="form-control" id="message" name="message" rows="3" placeholder="Tell us a few words"></textarea>
+                                                    <textarea class="form-control" id="message" name="message" rows="3"
+                                                        placeholder="Tell us a few words"></textarea>
                                                 </div>
                                             </div>
                                         </div>
@@ -257,13 +151,15 @@
                                             <div class="quform-element">
                                                 <div class="form-group">
                                                     <div class="quform-input">
-                                                        <input class="form-control" id="type_the_word" type="text" name="type_the_word" placeholder="Type the below word" />
+                                                        <input class="form-control" id="type_the_word" type="text"
+                                                            name="type_the_word" placeholder="Type the below word" />
                                                     </div>
                                                 </div>
                                                 <div class="form-group">
                                                     <div class="quform-captcha">
                                                         <div class="quform-captcha-inner">
-                                                            <img src="quform/images/captcha/courier-new-light.png" alt="...">
+                                                            <img src="quform/images/captcha/courier-new-light.png"
+                                                                alt="...">
                                                         </div>
                                                     </div>
                                                 </div>
@@ -274,9 +170,11 @@
                                         <!-- Begin Submit button -->
                                         <div class="col-md-12">
                                             <div class="quform-submit-inner">
-                                                <button class="btn-style1 border-0" type="submit"><span>Send Message</span></button>
+                                                <button class="btn-style1 border-0" type="submit"><span>Send
+                                                        Message</span></button>
                                             </div>
-                                            <div class="quform-loading-wrap text-start"><span class="quform-loading"></span></div>
+                                            <div class="quform-loading-wrap text-start"><span
+                                                    class="quform-loading"></span></div>
                                         </div>
                                         <!-- End Submit button -->
 
@@ -319,7 +217,8 @@
                                             </div>
                                             <div class="contacts-title">
                                                 <h5 class="text-white font-weight-600 display-28"> Locations</h5>
-                                                <h6 class="text-white font-weight-400">66 Guild Street 512B, Great North Town.</h6>
+                                                <h6 class="text-white font-weight-400">66 Guild Street 512B, Great North
+                                                    Town.</h6>
                                             </div>
                                         </div>
                                     </div>
@@ -341,280 +240,16 @@
         ================================================== -->
         <section class="p-0">
             <div class="container-fuild">
-                <iframe class="contact-map" id="gmap_canvas" src="https://maps.google.com/maps?q=london&amp;t=&amp;z=13&amp;ie=UTF8&amp;iwloc=&amp;output=embed"></iframe>
+                <iframe class="contact-map" id="gmap_canvas"
+                    src="https://maps.google.com/maps?q=london&amp;t=&amp;z=13&amp;ie=UTF8&amp;iwloc=&amp;output=embed"></iframe>
             </div>
         </section>
 
         <!-- FOOTER
         ================================================== -->
-        <footer class="footer-style01 bg-secondary pt-10 pb-8">
-            <div class="container">
-                <div class="row mt-n2-9 mb-6">
-                    <div class="col-md-6 col-lg-4 mt-2-9">
-                        <div class="pe-md-1-6 pe-xxl-7">
-                            <div class="footer-logo mb-1-6">
-                                <a href="index.html"><img src="img/logos/footer-light-logo.png" alt="..."></a>
-                            </div>
-                            <p class="text-white mb-0 opacity8">We have 14+ years experience. Helping you overcome technology challenges. we are dedicated to provides the best solutions to our valued customers.</p>
-                        </div>
-                    </div>
-                    <div class="col-md-6 col-lg-4 mt-2-9">
-                        <div class="ps-md-2-6 ps-xl-7">
-                            <h3 class="text-white h4 mb-2-4">Quick Links</h3>
-                            <div class="row">
-                                <div class="col-6">
-                                    <ul class="links-wrap list-unstyled mb-0">
-                                        <li><a href="index.html">Home</a></li>
-                                        <li><a href="about.html">About</a></li>
-                                        <li><a href="services.html">Services</a></li>
-                                        <li><a href="portfolio.html">Our Projects</a></li>
-                                    </ul>
-                                </div>
-                                <div class="col-6">
-                                    <ul class="links-wrap list-unstyled mb-0">
-                                        <li><a href="pricing.html">Pricing</a></li>
-                                        <li><a href="team.html">Team</a></li>
-                                        <li><a href="blog-grid.html">Blog</a></li>
-                                        <li><a href="contact.html">Contacts</a></li>
-                                    </ul>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-md-6 col-lg-4 mt-2-9">
-                        <div class="ps-lg-5">
-                            <h3 class="text-white h4 mb-2-4">Newsletter</h3>
-                            <p class="text-white mb-1-6 display-28 opacity8">Subscribe to our newsletter to receive updates on the latest news!</p>
-                            <form class="quform newsletter-form" action="quform/newsletter-two.php" method="post" enctype="multipart/form-data" onclick="">
+        <?php include "includes/footer.php" ?>
 
-                                <div class="quform-elements">
-                                    <div class="row">
 
-                                        <!-- Begin Text input element -->
-                                        <div class="col-md-12">
-                                            <div class="quform-element mb-0">
-                                                <div class="quform-input">
-                                                    <input class="form-control" id="email_address" type="text" name="email_address" placeholder="Subscribe with us">
-                                                </div>
-                                            </div>
-                                        </div>
-                                        <!-- End Text input element -->
-
-                                        <!-- Begin Submit button -->
-                                        <div class="col-md-12">
-                                            <div class="quform-submit-inner">
-                                                <button class="btn btn-white text-white m-0" type="submit"><i class="fas fa-paper-plane"></i></button>
-                                            </div>
-                                            <div class="quform-loading-wrap"><span class="quform-loading"></span></div>
-                                        </div>
-                                        <!-- End Submit button -->
-                                    </div>
-
-                                </div>
-
-                            </form>
-                        </div>
-                    </div>
-                </div>
-            </div>
-            <div class="container">
-                <div class="row mt-n4 align-items-center">
-                    <div class="col-lg-6 mt-4">
-                        <div class=" text-center text-lg-start">
-                            <p class="d-inline-block text-white mb-0">&copy; <span class="current-year"></span> Metary Powered by <a href="#" class="text-primary text-white-hover">Website Layout</a></p>
-                        </div>
-                    </div>
-                    <div class="col-lg-6 mt-4">
-                        <div class="text-center text-lg-end">
-                            <ul class="list-unstyled mb-0">
-                                <li class="display-30 d-inline-block border-end border-color-light-white pe-3 me-2 lh-1"><a href="terms-conditions.html" class="text-white text-primary-hover opacity7">Terms &amp; Conditions</a></li>
-                                <li class="display-30 d-inline-block lh-1"><a href="privacy-policy.html" class="text-white text-primary-hover opacity7">Privacy Policy</a></li>
-                            </ul>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </footer>
-
-    </div>
-
-    <!-- BUY THEME
-    ================================================== -->
-    <div class="buy-theme alt-font d-none d-lg-inline-block"><a href="https://themeforest.net/item/metary-industry-factory-html-template/59328958" target="_blank"><i class="fas fa-cart-plus"></i><span>Purchase Metary Template</span></a></div> 
-
-    <div class="wlt-overlay-bg"></div>
-
-    <div class="wlt-sidebar-main" id="wlt-sidebar-main">
-
-        <div class="popular-theme alt-font d-none d-lg-inline-block wl-btn wlt-btn"><a href="#!"><i class="fa-solid fa-layer-group"></i><span>Popular Templates & More..</span></a></div>
-
-        <div class="wlt-sidebar-inner scrollbar-macosx" id="wlt-sidebar-inner">
-            <div class="wlt-banner-section">
-                <div class="wlt-heading">
-                    <h3><span>WordPress Version</span></h3>
-                </div>
-                <a href="https://metarypreview.websitelayout.net/" target="_blank">
-                    <span class="wlt-banner">
-                        <span class="wlt-img-hover">
-                            <img src="img/preview/metary-industry-factory-wordpress-theme.jpg" alt="Metary - Industry & Factory WordPress Theme" />
-                        </span>
-                        <span class="wlt-banner-info">
-                            <span class="wlt-banner-name">
-                                <span class="wlt-proj-name">Metary WordPress Theme</span>
-                            </span>
-                            <span class="wlt-proj-price">
-                                <bdi><span>&#36;</span>59.00</bdi>
-                            </span>
-                        </span>
-                    </span>
-                </a>                
-                <div class="wlt-heading">
-                    <h3><span>Featured Theme</span></h3>
-                </div>
-                <a href="https://kargonhtml.websitelayout.net/" target="_blank">
-                    <span class="wlt-banner">
-                        <span class="wlt-img-hover">
-                            <img src="img/preview/kargon-transport-logistics-html-template.jpg" alt="Kargon - Transport and Logistics HTML Template" />
-                        </span>
-                        <span class="wlt-banner-info">
-                            <span class="wlt-banner-name">
-                                <span class="wlt-proj-name">Kargon</span>
-                            </span>
-                            <span class="wlt-proj-price">
-                                <bdi><span>&#36;</span>19.00</bdi>
-                            </span>
-                        </span>
-                    </span>
-                </a>
-                <a href="https://flywebhtml.websitelayout.net/" target="_blank">
-                    <span class="wlt-banner">
-                        <span class="wlt-img-hover">
-                            <img src="img/preview/flyweb-web-design-agency-html-template.jpg" alt="Flyweb - Web Design Agency HTML Template" />
-                        </span>
-                        <span class="wlt-banner-info">
-                            <span class="wlt-banner-name">
-                                <span class="wlt-proj-name">Flyweb</span>
-                            </span>
-                            <span class="wlt-proj-price">
-                                <bdi><span>&#36;</span>19.00</bdi>
-                            </span>
-                        </span>
-                    </span>
-                </a>
-                <div class="wlt-heading">
-                    <h3><span>Popular Theme</span></h3>
-                </div>
-                <a href="https://monityhtml.websitelayout.net/" target="_blank">
-                    <span class="wlt-banner">
-                        <span class="wlt-img-hover">
-                            <img src="img/preview/monityâcctv-security-html-template.jpg" alt="Monity – CCTV & Security HTML Template" />
-                        </span>
-                        <span class="wlt-banner-info">
-                            <span class="wlt-banner-name">
-                                <span class="wlt-proj-name">Monity</span>
-                            </span>
-                            <span class="wlt-proj-price">
-                                <bdi><span>&#36;</span>19.00</bdi>
-                            </span>
-                        </span>
-                    </span>
-                </a>                
-                <a href="https://proliohtml.websitelayout.net/" target="_blank">
-                    <span class="wlt-banner">
-                        <span class="wlt-img-hover">
-                            <img src="img/preview/prolio-business-consulting-html-template.jpg" alt="Prolio - Business Consulting HTML Template" />
-                        </span>
-                        <span class="wlt-banner-info">
-                            <span class="wlt-banner-name">
-                                <span class="wlt-proj-name">Prolio</span>
-                            </span>
-                            <span class="wlt-proj-price">
-                                <bdi><span>&#36;</span>19.00</bdi>
-                            </span>
-                        </span>
-                    </span>
-                </a>
-                <a href="https://solutichtml.websitelayout.net/preview.html" target="_blank">
-                    <span class="wlt-banner">
-                        <span class="wlt-img-hover">
-                            <img src="img/preview/solutic-it-solutions-services-html-template.jpg" alt="Solutic - IT Solutions and Services HTML Template" />
-                        </span>
-                        <span class="wlt-banner-info">
-                            <span class="wlt-banner-name">
-                                <span class="wlt-proj-name">Solutic</span>
-                            </span>
-                            <span class="wlt-proj-price">
-                                <bdi><span>&#36;</span>19.00</bdi>
-                            </span>
-                        </span>
-                    </span>
-                </a>
-                <a href="../habitrohtml.websitelayout.net/preview.html" target="_blank">
-                    <span class="wlt-banner">
-                        <span class="wlt-img-hover">
-                            <img src="img/preview/habitro-nutrition-health-diet-html-template.jpg" alt="Habitro - Nutrition Health and Diet HTML Template" />
-                        </span>
-                        <span class="wlt-banner-info">
-                            <span class="wlt-banner-name">
-                                <span class="wlt-proj-name">Habitro</span>
-                            </span>
-                            <span class="wlt-proj-price">
-                                <bdi><span>&#36;</span>19.00</bdi>
-                            </span>
-                        </span>
-                    </span>
-                </a>
-                <a href="https://topwebs.websitelayout.net/" target="_blank">
-                    <span class="wlt-banner">
-                        <span class="wlt-img-hover">
-                            <img src="img/preview/topweb-web-design-agency-html-template.jpg" alt="Topweb - Web Design Agency HTML Template" />
-                        </span>
-                        <span class="wlt-banner-info">
-                            <span class="wlt-banner-name">
-                                <span class="wlt-proj-name">Topweb</span>
-                            </span>
-                            <span class="wlt-proj-price">
-                                <bdi><span>&#36;</span>19.00</bdi>
-                            </span>
-                        </span>
-                    </span>
-                </a>
-                <a href="../lifesthtml.websitelayout.net/preview.html" target="_blank">
-                    <span class="wlt-banner">
-                        <span class="wlt-img-hover">
-                            <img src="img/preview/lifest-insurance-agency-html-template.jpg" alt="Lifest - Insurance Agency HTML Template" />
-                        </span>
-                        <span class="wlt-banner-info">
-                            <span class="wlt-banner-name">
-                                <span class="wlt-proj-name">Lifest</span>
-                            </span>
-                            <span class="wlt-proj-price">
-                                <bdi><span>&#36;</span>19.00</bdi>
-                            </span>
-                        </span>
-                    </span>
-                </a>
-                <a href="https://renumahtml.websitelayout.net/" target="_blank">
-                    <span class="wlt-banner">
-                        <span class="wlt-img-hover">
-                            <img src="img/preview/renuma-solar-renewable-energy-html-template.jpg" alt="Renuma - Solar & Renewable Energy HTML Template" />
-                        </span>
-                        <span class="wlt-banner-info">
-                            <span class="wlt-banner-name">
-                                <span class="wlt-proj-name">Renuma</span>
-                            </span>
-                            <span class="wlt-proj-price">
-                                <bdi><span>&#36;</span>19.00</bdi>
-                            </span>
-                        </span>
-                    </span>
-                </a>
-            </div>
-        </div>
-
-        <div class="wlt-bottom-button">
-            <a class="wlt-link" href="mailto:websitelayout3@gmail.com" target="_blank">Any Query or Support? Please feel free to contact us at -    websitelayout3@gmail.com</a>
-        </div>
 
     </div>
 
@@ -657,4 +292,5 @@
 
 
 <!-- Mirrored from metaryhtml.websitelayout.net/contact.html by HTTrack Website Copier/3.x [XR&CO'2014], Tue, 28 Oct 2025 11:41:28 GMT -->
+
 </html>

@@ -3,6 +3,7 @@
 
 
 <!-- Mirrored from metaryhtml.websitelayout.net/about.html by HTTrack Website Copier/3.x [XR&CO'2014], Tue, 28 Oct 2025 11:41:27 GMT -->
+
 <head>
 
     <!-- metas -->
@@ -11,7 +12,8 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="keywords" content="Industry & Factory HTML Template">
-    <meta name="description" content="Metary is a modern, responsive HTML template designed for industrial, factory, and power‑technology businesses. Featuring ready‑made pages like Services, Portfolio, Blog, Team, Pricing, and Contact.">
+    <meta name="description"
+        content="Metary is a modern, responsive HTML template designed for industrial, factory, and power‑technology businesses. Featuring ready‑made pages like Services, Portfolio, Blog, Team, Pricing, and Contact.">
 
     <!-- title  -->
     <title>Metary – Industry & Factory HTML Template | Power & Automation Technologies</title>
@@ -35,7 +37,7 @@
     <link rel="stylesheet" href="css/scrollbar.css">
 
     <!-- theme core css -->
-    <link href="css/styles.css" rel="stylesheet">    
+    <link href="css/styles.css" rel="stylesheet">
 
 </head>
 
@@ -51,137 +53,18 @@
 
         <!-- HEADER
         ================================================== -->
-        <header class="header-style1 menu_area-light">
-
-            <div class="navbar-default border-bottom border-color-light-white">
-
-                <!-- start top search -->
-                <div class="top-search bg-primary">
-                    <div class="container-fluid px-lg-1-6 px-xl-2-5 px-xxl-2-9">
-                        <form class="search-form" action="search.html" method="GET" accept-charset="utf-8">
-                            <div class="input-group">
-                                <span class="input-group-addon cursor-pointer">
-                                    <button class="search-form_submit fas fa-search text-white" type="submit"></button>
-                                </span>
-                                <input type="text" class="search-form_input form-control" name="s" autocomplete="off" placeholder="Type & hit enter...">
-                                <span class="input-group-addon close-search mt-1"><i class="fas fa-times"></i></span>
-                            </div>
-                        </form>
-                    </div>
-                </div>
-                <!-- end top search -->
-
-                <div class="container-fluid px-lg-1-6 px-xl-2-5 px-xxl-2-9">
-                    <div class="row align-items-center">
-                        <div class="col-12 col-lg-12">
-                            <div class="menu_area alt-font">
-                                <nav class="navbar navbar-expand-lg navbar-light p-0">
-                                    <div class="navbar-header navbar-header-custom">
-                                        <!-- start logo -->
-                                        <a href="index.html" class="navbar-brand"><img id="logo" src="img/logos/logo-inner.png" alt="logo" /></a>
-                                        <!-- end logo -->
-                                    </div>
-
-                                    <div class="navbar-toggler bg-primary"></div>
-
-                                    <!-- start menu area -->
-                                    <ul class="navbar-nav ms-auto" id="nav" style="display: none;">
-                                        <li><a href="#">Home</a>
-                                            <ul>
-                                                <li><a href="index.html">Home 01</a></li>
-                                                <li><a href="index-02.html">Home 02 - Dark Menu</a></li>
-                                                <li><a href="index-03.html">Home 03</a></li>
-                                            </ul>
-                                        </li>
-                                        <li>
-                                            <a href="#">Pages</a>
-                                            <ul>
-                                                <li><a href="about.html">About Us</a></li>
-                                                <li><a href="how-we-work.html">How We Work</a></li>
-                                                <li><a href="faq.html">FAQ's</a></li>
-                                                <li>
-                                                    <a href="#">Our Team</a>
-                                                    <ul>
-                                                        <li><a href="team.html">Our Team</a></li>
-                                                        <li><a href="team-details.html">Team Details</a></li>
-                                                    </ul>
-                                                </li>
-                                                <li><a href="pricing.html">Pricing Plans</a></li>
-                                                <li><a href="privacy-policy.html">Privacy Policy</a></li>
-                                                <li><a href="terms-conditions.html">Terms & Conditions</a></li>
-                                                <li><a href="404-page.html">404 Page</a></li>
-                                                <li><a href="coming-soon.html">Coming Soon</a></li>
-                                            </ul>
-                                        </li>
-                                        <li>
-                                            <a href="#">Services</a>
-                                            <ul>
-                                                <li><a href="services.html">Our Services</a></li>
-                                                <li><a href="oil-gas-engineering.html">Oil & Gas Engineering</a></li>
-                                                <li><a href="mechanical-engineering.html">Mechanical Engineering</a></li>
-                                                <li><a href="automotive-manufacturing.html">Automotive Manufacturing</a></li>
-                                                <li><a href="chemical-research.html">Chemical Research</a></li>
-                                                <li><a href="industrial-construction.html">Industrial Construction</a></li>
-                                                <li><a href="civil-engineering.html">Civil Engineerin</a></li>
-                                            </ul>
-                                        </li>
-                                        <li>
-                                            <a href="#">Portfolio</a>
-                                            <ul>
-                                                <li><a href="#">Portfolio Grid</a>
-                                                    <ul>
-                                                        <li><a href="portfolio-two-columns.html">2 Columns</a></li>
-                                                        <li><a href="portfolio.html">3 Columns - Standard</a></li>
-                                                        <li><a href="portfolio-four-columns.html">4 Columns</a></li>
-                                                    </ul>
-                                                </li>
-                                                <li><a href="portfolio-details.html">Portfolio Details</a></li>
-                                            </ul>
-                                        </li>
-                                        <li>
-                                            <a href="#">Blog</a>
-                                            <ul>
-                                                <li><a href="#">Blog Grid</a>
-                                                    <ul>
-                                                        <li><a href="blog-grid-two-columns.html">2 Columns</a></li>
-                                                        <li><a href="blog-grid-two-columns-left-sidebar.html">2 Col – Left Sidebar</a></li>
-                                                        <li><a href="blog-grid-two-columns-right-sidebar.html">2 Col – Right Sidebar</a></li>
-                                                        <li><a href="blog-grid.html">3 Columns - Standard</a></li>
-                                                    </ul>
-                                                </li>
-                                                <li><a href="blog-list.html">Blog List</a></li>
-                                                <li><a href="blog-details.html">Blog Details</a></li>
-                                            </ul>
-                                        </li>
-                                        <li><a href="contact.html">Contact</a></li>
-                                    </ul>
-                                    <!-- end menu area -->
-
-                                    <!-- start attribute navigation -->
-                                    <div class="attr-nav align-items-xl-center ms-xl-auto main-font">
-                                        <ul>
-                                            <li class="search"><a href="#"><i class="fas fa-search"></i></a></li>
-                                            <li class="d-none d-xl-inline-block"><a href="contact.html" class="btn-style1 white-hover small"><span>Free Quote</span></a></li>
-                                        </ul>
-                                    </div>
-                                    <!-- end attribute navigation -->
-                                </nav>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </header>
+        <?php include "includes/header.php" ?>
 
         <!-- PAGE TITLE
         ================================================== -->
-        <section class="page-title-section top-position1 bg-img cover-background left-overlay-secondary" data-overlay-dark="85" data-background="img/banner/page-title-01.jpg">
-            <div class="container">                
+        <section class="page-title-section top-position1 bg-img cover-background left-overlay-secondary"
+            data-overlay-dark="85" data-background="img/banner/page-title-01.jpg">
+            <div class="container">
                 <h1>About Us</h1>
                 <ul>
                     <li><a href="index.html">Home</a></li>
                     <li>About Us</li>
-                </ul>                
+                </ul>
             </div>
         </section>
 
@@ -193,13 +76,20 @@
                     <div class="col-lg-6 mt-1-9 mt-md-6 order-2 order-lg-1 wow fadeIn" data-wow-delay="100ms">
                         <div class="pe-lg-6 pe-xl-10">
                             <div class="section-title-01 mb-1-9">
-                                <span class="text-primary font-weight-600 text-uppercase letter-spacing-1 position-relative ps-2">About Us</span>
-                                <h2 class="display-5 lh-1 font-weight-800 mb-0">A modern construction & industrial agency</h2>
+                                <span
+                                    class="text-primary font-weight-600 text-uppercase letter-spacing-1 position-relative ps-2">About
+                                    Us</span>
+                                <h2 class="display-5 lh-1 font-weight-800 mb-0">A modern construction & industrial
+                                    agency</h2>
                             </div>
-                            <p class="mb-1-9 display-28">From investigation and creation to transportation and refining, we offer a large number of items and administrations that meet the extraordinary requirements of the oil and gas industry.</p>
+                            <p class="mb-1-9 display-28">From investigation and creation to transportation and refining,
+                                we offer a large number of items and administrations that meet the extraordinary
+                                requirements of the oil and gas industry.</p>
                             <div class="d-flex align-items-center">
-                                <a href="#" class="btn-style1 me-4"><span><span class="btn-small">Read More</span></span></a>
-                                <a href="#" class="display-27 text-dark font-weight-700"><i class="fa-solid fa-phone-volume text-primary me-2"></i>1 800 222 000</a>
+                                <a href="#" class="btn-style1 me-4"><span><span class="btn-small">Read
+                                            More</span></span></a>
+                                <a href="#" class="display-27 text-dark font-weight-700"><i
+                                        class="fa-solid fa-phone-volume text-primary me-2"></i>1 800 222 000</a>
                             </div>
                         </div>
                     </div>
@@ -223,20 +113,23 @@
 
         <!-- EXTRA
         ================================================== -->
-        <section class="extra-style02 bg-img cover-background pb-0 pt-24 overflow-visible" data-overlay-dark="3" data-background="img/bg/bg-02.jpg">
+        <section class="extra-style02 bg-img cover-background pb-0 pt-24 overflow-visible" data-overlay-dark="3"
+            data-background="img/bg/bg-02.jpg">
             <div class="container">
                 <div class="row pt-lg-24">
                     <div class="col-lg-7 col-xl-6">
                         <div class="row pt-sm-6 pt-md-10 pt-xxl-20">
                             <div class="col-sm-6 col-xxl-5 wow fadeIn" data-wow-delay="100ms">
                                 <div class="extra-counter-box rounded-top">
-                                    <h2 class="display-6 mb-3 font-weight-600 text-white lh-1"><span class="countup">426</span></h2>
+                                    <h2 class="display-6 mb-3 font-weight-600 text-white lh-1"><span
+                                            class="countup">426</span></h2>
                                     <p class="mb-0 text-white display-29">Experienced Workers</p>
                                 </div>
                             </div>
                             <div class="col-sm-6 col-xxl-5 wow fadeIn" data-wow-delay="150ms">
                                 <div class="extra-counter-box bg-secondary rounded-top">
-                                    <h2 class="display-6 mb-3 font-weight-600 text-white lh-1"><span class="countup">4</span>K</h2>
+                                    <h2 class="display-6 mb-3 font-weight-600 text-white lh-1"><span
+                                            class="countup">4</span>K</h2>
                                     <p class="mb-0 text-white display-29">Project Complete</p>
                                 </div>
                             </div>
@@ -254,10 +147,13 @@
                     <div class="col-lg-6 mt-2-9 wow fadeIn" data-wow-delay="100ms">
                         <div class="pe-lg-7">
                             <div class="section-title-01 mb-1-9">
-                                <span class="text-primary font-weight-600 text-uppercase letter-spacing-1 position-relative ps-2">Faq</span>
-                                <h2 class="display-5 lh-1 font-weight-800 mb-0">Solutions for residentials & industries!</h2>
+                                <span
+                                    class="text-primary font-weight-600 text-uppercase letter-spacing-1 position-relative ps-2">Faq</span>
+                                <h2 class="display-5 lh-1 font-weight-800 mb-0">Solutions for residentials & industries!
+                                </h2>
                             </div>
-                            <p class="mb-1-9">Constructor clarifies how you can appreciate top of the line flooring patterns like finished wood and with new cover flooring.</p>
+                            <p class="mb-1-9">Constructor clarifies how you can appreciate top of the line flooring
+                                patterns like finished wood and with new cover flooring.</p>
                             <a href="about.html" class="btn-style1"><span>Learn More</span></a>
                         </div>
                     </div>
@@ -267,36 +163,53 @@
                                 <div class="card mb-3">
                                     <div class="card-header" id="headingOne">
                                         <h5 class="mb-0">
-                                            <button class="btn btn-link" data-bs-toggle="collapse" data-bs-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">1. Where i can find instructions to technology process?</button>
+                                            <button class="btn btn-link" data-bs-toggle="collapse"
+                                                data-bs-target="#collapseOne" aria-expanded="true"
+                                                aria-controls="collapseOne">1. Where i can find instructions to
+                                                technology process?</button>
                                         </h5>
                                     </div>
-                                    <div id="collapseOne" class="collapse show" aria-labelledby="headingOne" data-bs-parent="#accordion">
+                                    <div id="collapseOne" class="collapse show" aria-labelledby="headingOne"
+                                        data-bs-parent="#accordion">
                                         <div class="card-body">
-                                            We are committed to providing our customers with exceptional service while offering our employees the best training. There are many variations of passages of lorem ipsum is simply free text.
+                                            We are committed to providing our customers with exceptional service while
+                                            offering our employees the best training. There are many variations of
+                                            passages of lorem ipsum is simply free text.
                                         </div>
                                     </div>
                                 </div>
                                 <div class="card mb-3">
                                     <div class="card-header" id="headingTwo">
                                         <h5 class="mb-0">
-                                            <button class="btn btn-link collapsed" data-bs-toggle="collapse" data-bs-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">2. How to work with industrium?</button>
+                                            <button class="btn btn-link collapsed" data-bs-toggle="collapse"
+                                                data-bs-target="#collapseTwo" aria-expanded="false"
+                                                aria-controls="collapseTwo">2. How to work with industrium?</button>
                                         </h5>
                                     </div>
-                                    <div id="collapseTwo" class="collapse" aria-labelledby="headingTwo" data-bs-parent="#accordion">
+                                    <div id="collapseTwo" class="collapse" aria-labelledby="headingTwo"
+                                        data-bs-parent="#accordion">
                                         <div class="card-body">
-                                            We are committed to providing our customers with exceptional service while offering our employees the best training. There are many variations of passages of lorem ipsum is simply free text.
+                                            We are committed to providing our customers with exceptional service while
+                                            offering our employees the best training. There are many variations of
+                                            passages of lorem ipsum is simply free text.
                                         </div>
                                     </div>
                                 </div>
                                 <div class="card">
                                     <div class="card-header" id="headingThree">
                                         <h5 class="mb-0">
-                                            <button class="btn btn-link collapsed" data-bs-toggle="collapse" data-bs-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">3. Basic part of property for human life?</button>
+                                            <button class="btn btn-link collapsed" data-bs-toggle="collapse"
+                                                data-bs-target="#collapseThree" aria-expanded="false"
+                                                aria-controls="collapseThree">3. Basic part of property for human
+                                                life?</button>
                                         </h5>
                                     </div>
-                                    <div id="collapseThree" class="collapse" aria-labelledby="headingThree" data-bs-parent="#accordion">
+                                    <div id="collapseThree" class="collapse" aria-labelledby="headingThree"
+                                        data-bs-parent="#accordion">
                                         <div class="card-body">
-                                            We are committed to providing our customers with exceptional service while offering our employees the best training. There are many variations of passages of lorem ipsum is simply free text.
+                                            We are committed to providing our customers with exceptional service while
+                                            offering our employees the best training. There are many variations of
+                                            passages of lorem ipsum is simply free text.
                                         </div>
                                     </div>
                                 </div>
@@ -309,26 +222,41 @@
 
         <!-- TESTIMONIAL
         ================================================== -->
-        <section class="pb-0 pt-24 ms-lg-10 item bg-img overflow-visible cover-background rounded-start" data-background="img/bg/bg-03.jpg">
+        <section class="pb-0 pt-24 ms-lg-10 item bg-img overflow-visible cover-background rounded-start"
+            data-background="img/bg/bg-03.jpg">
             <div class="container">
                 <div class="row justify-content-end">
                     <div class="col-lg-8 col-xl-6">
                         <div class="bg-dark rounded-top">
                             <div class="section-title-01 mb-5 px-1-9 px-md-6 pt-1-9 pt-md-6">
                                 <img src="img/icons/quote-02.png" class="w-60px mb-4" alt="...">
-                                <h2 class="display-5 lh-1 font-weight-800 mb-0 text-white">What our happy client say about us</h2>
+                                <h2 class="display-5 lh-1 font-weight-800 mb-0 text-white">What our happy client say
+                                    about us</h2>
                             </div>
-                            <div class="testimonial-carousel1 owl-carousel owl-theme px-1-9 px-md-6 pb-7" data-slider-id="1">
+                            <div class="testimonial-carousel1 owl-carousel owl-theme px-1-9 px-md-6 pb-7"
+                                data-slider-id="1">
                                 <div>
-                                    <p class="text-white display-28 mb-2-6">I can't say enough about industrial. Industrial has really helped our business. Would definitely recommend industrial and will definitely be ordering again. Industrial has made a huge difference! I have tried a few software of this kind and industrial is the best by far! Industrial is exactly what i've been looking for.</p>
+                                    <p class="text-white display-28 mb-2-6">I can't say enough about industrial.
+                                        Industrial has really helped our business. Would definitely recommend industrial
+                                        and will definitely be ordering again. Industrial has made a huge difference! I
+                                        have tried a few software of this kind and industrial is the best by far!
+                                        Industrial is exactly what i've been looking for.</p>
                                     <h5 class="text-white mb-0"> Fesahaye Bisrat / MD Peaceful </h5>
                                 </div>
                                 <div>
-                                    <p class="text-white display-28 mb-2-6">I highly recommend industrial. It has been so important for us as we continue to grow our company. I have been using industrial for over a year now and i love it! I can't imagine life without it. It's so easy to use, and the customer service is great. I have tried a lot of similar products and Industrial is the best!</p>
+                                    <p class="text-white display-28 mb-2-6">I highly recommend industrial. It has been
+                                        so important for us as we continue to grow our company. I have been using
+                                        industrial for over a year now and i love it! I can't imagine life without it.
+                                        It's so easy to use, and the customer service is great. I have tried a lot of
+                                        similar products and Industrial is the best!</p>
                                     <h5 class="text-white mb-0"> Demsas Luwam / CEO Peaceful </h5>
                                 </div>
                                 <div>
-                                    <p class="text-white display-28 mb-2-6">Instead of drowning in an endless chain of emails, there is clear and easy accountability meaning tasks actually get done! With industrial, we have finally accomplished things that have been waiting forever to get done. With industrial, communication between all of us is far more efficient. A game changer.</p>
+                                    <p class="text-white display-28 mb-2-6">Instead of drowning in an endless chain of
+                                        emails, there is clear and easy accountability meaning tasks actually get done!
+                                        With industrial, we have finally accomplished things that have been waiting
+                                        forever to get done. With industrial, communication between all of us is far
+                                        more efficient. A game changer.</p>
                                     <h5 class="text-white mb-0"> Iggi Tewolde / Manager Peaceful </h5>
                                 </div>
                             </div>
@@ -343,8 +271,11 @@
         <section class="pt-20">
             <div class="container">
                 <div class="section-title-01 mb-5 text-center wow fadeIn" data-wow-dela="100ms">
-                    <span class="text-primary font-weight-600 text-uppercase letter-spacing-1 position-relative ps-2">Our Team</span>
-                    <h2 class="display-5 lh-1 font-weight-800 mb-0 w-md-80 w-lg-65 w-xl-55 w-xxl-50 mx-auto">We have gathered the best group to work with you</h2>
+                    <span
+                        class="text-primary font-weight-600 text-uppercase letter-spacing-1 position-relative ps-2">Our
+                        Team</span>
+                    <h2 class="display-5 lh-1 font-weight-800 mb-0 w-md-80 w-lg-65 w-xl-55 w-xxl-50 mx-auto">We have
+                        gathered the best group to work with you</h2>
                 </div>
                 <div class="row mt-n1-9">
                     <div class="col-md-6 col-xl-3 mt-1-9 wow fadeIn" data-wow-delay="100ms">
@@ -360,9 +291,12 @@
                                         <i class="fa fa-share-alt"></i>
                                         <div class="icons-social">
                                             <ul>
-                                                <li><a href="https://www.facebook.com/" target="_blank"><i class="ti-facebook"></i></a></li>
-                                                <li><a href="https://twitter.com/" target="_blank"><i class="ti-twitter-alt"></i></a></li>
-                                                <li><a href="https://www.instagram.com/" target="_blank"><i class="ti-instagram"></i></a></li>
+                                                <li><a href="https://www.facebook.com/" target="_blank"><i
+                                                            class="ti-facebook"></i></a></li>
+                                                <li><a href="https://twitter.com/" target="_blank"><i
+                                                            class="ti-twitter-alt"></i></a></li>
+                                                <li><a href="https://www.instagram.com/" target="_blank"><i
+                                                            class="ti-instagram"></i></a></li>
                                             </ul>
                                         </div>
                                     </div>
@@ -386,9 +320,12 @@
                                             <i class="fa fa-share-alt"></i>
                                             <div class="icons-social">
                                                 <ul>
-                                                    <li><a href="https://www.facebook.com/" target="_blank"><i class="ti-facebook"></i></a></li>
-                                                    <li><a href="https://twitter.com/" target="_blank"><i class="ti-twitter-alt"></i></a></li>
-                                                    <li><a href="https://www.instagram.com/" target="_blank"><i class="ti-instagram"></i></a></li>
+                                                    <li><a href="https://www.facebook.com/" target="_blank"><i
+                                                                class="ti-facebook"></i></a></li>
+                                                    <li><a href="https://twitter.com/" target="_blank"><i
+                                                                class="ti-twitter-alt"></i></a></li>
+                                                    <li><a href="https://www.instagram.com/" target="_blank"><i
+                                                                class="ti-instagram"></i></a></li>
                                                 </ul>
                                             </div>
                                         </div>
@@ -413,9 +350,12 @@
                                             <i class="fa fa-share-alt"></i>
                                             <div class="icons-social">
                                                 <ul>
-                                                    <li><a href="https://www.facebook.com/" target="_blank"><i class="ti-facebook"></i></a></li>
-                                                    <li><a href="https://twitter.com/" target="_blank"><i class="ti-twitter-alt"></i></a></li>
-                                                    <li><a href="https://www.instagram.com/" target="_blank"><i class="ti-instagram"></i></a></li>
+                                                    <li><a href="https://www.facebook.com/" target="_blank"><i
+                                                                class="ti-facebook"></i></a></li>
+                                                    <li><a href="https://twitter.com/" target="_blank"><i
+                                                                class="ti-twitter-alt"></i></a></li>
+                                                    <li><a href="https://www.instagram.com/" target="_blank"><i
+                                                                class="ti-instagram"></i></a></li>
                                                 </ul>
                                             </div>
                                         </div>
@@ -440,9 +380,12 @@
                                             <i class="fa fa-share-alt"></i>
                                             <div class="icons-social">
                                                 <ul>
-                                                    <li><a href="https://www.facebook.com/" target="_blank"><i class="ti-facebook"></i></a></li>
-                                                    <li><a href="https://twitter.com/" target="_blank"><i class="ti-twitter-alt"></i></a></li>
-                                                    <li><a href="https://www.instagram.com/" target="_blank"><i class="ti-instagram"></i></a></li>
+                                                    <li><a href="https://www.facebook.com/" target="_blank"><i
+                                                                class="ti-facebook"></i></a></li>
+                                                    <li><a href="https://twitter.com/" target="_blank"><i
+                                                                class="ti-twitter-alt"></i></a></li>
+                                                    <li><a href="https://www.instagram.com/" target="_blank"><i
+                                                                class="ti-instagram"></i></a></li>
                                                 </ul>
                                             </div>
                                         </div>
@@ -459,106 +402,23 @@
 
         <!-- FOOTER
         ================================================== -->
-        <footer class="footer-style01 bg-secondary pt-10 pb-8">
-            <div class="container">
-                <div class="row mt-n2-9 mb-6">
-                    <div class="col-md-6 col-lg-4 mt-2-9">
-                        <div class="pe-md-1-6 pe-xxl-7">
-                            <div class="footer-logo mb-1-6">
-                                <a href="index.html"><img src="img/logos/footer-light-logo.png" alt="..."></a>
-                            </div>
-                            <p class="text-white mb-0 opacity8">We have 14+ years experience. Helping you overcome technology challenges. we are dedicated to provides the best solutions to our valued customers.</p>
-                        </div>
-                    </div>
-                    <div class="col-md-6 col-lg-4 mt-2-9">
-                        <div class="ps-md-2-6 ps-xl-7">
-                            <h3 class="text-white h4 mb-2-4">Quick Links</h3>
-                            <div class="row">
-                                <div class="col-6">
-                                    <ul class="links-wrap list-unstyled mb-0">
-                                        <li><a href="index.html">Home</a></li>
-                                        <li><a href="about.html">About</a></li>
-                                        <li><a href="services.html">Services</a></li>
-                                        <li><a href="portfolio.html">Our Projects</a></li>
-                                    </ul>
-                                </div>
-                                <div class="col-6">
-                                    <ul class="links-wrap list-unstyled mb-0">
-                                        <li><a href="pricing.html">Pricing</a></li>
-                                        <li><a href="team.html">Team</a></li>
-                                        <li><a href="blog-grid.html">Blog</a></li>
-                                        <li><a href="contact.html">Contacts</a></li>
-                                    </ul>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-md-6 col-lg-4 mt-2-9">
-                        <div class="ps-lg-5">
-                            <h3 class="text-white h4 mb-2-4">Newsletter</h3>
-                            <p class="text-white mb-1-6 display-28 opacity8">Subscribe to our newsletter to receive updates on the latest news!</p>
-                            <form class="quform newsletter-form" action="quform/newsletter-two.php" method="post" enctype="multipart/form-data" onclick="">
+        <?php include "includes/footer.php" ?>
 
-                                <div class="quform-elements">
-                                    <div class="row">
-
-                                        <!-- Begin Text input element -->
-                                        <div class="col-md-12">
-                                            <div class="quform-element mb-0">
-                                                <div class="quform-input">
-                                                    <input class="form-control" id="email_address" type="text" name="email_address" placeholder="Subscribe with us">
-                                                </div>
-                                            </div>
-                                        </div>
-                                        <!-- End Text input element -->
-
-                                        <!-- Begin Submit button -->
-                                        <div class="col-md-12">
-                                            <div class="quform-submit-inner">
-                                                <button class="btn btn-white text-white m-0" type="submit"><i class="fas fa-paper-plane"></i></button>
-                                            </div>
-                                            <div class="quform-loading-wrap"><span class="quform-loading"></span></div>
-                                        </div>
-                                        <!-- End Submit button -->
-                                    </div>
-
-                                </div>
-
-                            </form>
-                        </div>
-                    </div>
-                </div>
-            </div>
-            <div class="container">
-                <div class="row mt-n4 align-items-center">
-                    <div class="col-lg-6 mt-4">
-                        <div class=" text-center text-lg-start">
-                            <p class="d-inline-block text-white mb-0">&copy; <span class="current-year"></span> Metary Powered by <a href="#" class="text-primary text-white-hover">Website Layout</a></p>
-                        </div>
-                    </div>
-                    <div class="col-lg-6 mt-4">
-                        <div class="text-center text-lg-end">
-                            <ul class="list-unstyled mb-0">
-                                <li class="display-30 d-inline-block border-end border-color-light-white pe-3 me-2 lh-1"><a href="terms-conditions.html" class="text-white text-primary-hover opacity7">Terms &amp; Conditions</a></li>
-                                <li class="display-30 d-inline-block lh-1"><a href="privacy-policy.html" class="text-white text-primary-hover opacity7">Privacy Policy</a></li>
-                            </ul>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </footer>
 
     </div>
 
     <!-- BUY THEME
     ================================================== -->
-    <div class="buy-theme alt-font d-none d-lg-inline-block"><a href="https://themeforest.net/item/metary-industry-factory-html-template/59328958" target="_blank"><i class="fas fa-cart-plus"></i><span>Purchase Metary Template</span></a></div> 
+    <div class="buy-theme alt-font d-none d-lg-inline-block"><a
+            href="https://themeforest.net/item/metary-industry-factory-html-template/59328958" target="_blank"><i
+                class="fas fa-cart-plus"></i><span>Purchase Metary Template</span></a></div>
 
     <div class="wlt-overlay-bg"></div>
 
     <div class="wlt-sidebar-main" id="wlt-sidebar-main">
 
-        <div class="popular-theme alt-font d-none d-lg-inline-block wl-btn wlt-btn"><a href="#!"><i class="fa-solid fa-layer-group"></i><span>Popular Templates & More..</span></a></div>
+        <div class="popular-theme alt-font d-none d-lg-inline-block wl-btn wlt-btn"><a href="#!"><i
+                    class="fa-solid fa-layer-group"></i><span>Popular Templates & More..</span></a></div>
 
         <div class="wlt-sidebar-inner scrollbar-macosx" id="wlt-sidebar-inner">
             <div class="wlt-banner-section">
@@ -568,7 +428,8 @@
                 <a href="https://metarypreview.websitelayout.net/" target="_blank">
                     <span class="wlt-banner">
                         <span class="wlt-img-hover">
-                            <img src="img/preview/metary-industry-factory-wordpress-theme.jpg" alt="Metary - Industry & Factory WordPress Theme" />
+                            <img src="img/preview/metary-industry-factory-wordpress-theme.jpg"
+                                alt="Metary - Industry & Factory WordPress Theme" />
                         </span>
                         <span class="wlt-banner-info">
                             <span class="wlt-banner-name">
@@ -579,14 +440,15 @@
                             </span>
                         </span>
                     </span>
-                </a>                
+                </a>
                 <div class="wlt-heading">
                     <h3><span>Featured Theme</span></h3>
                 </div>
                 <a href="https://kargonhtml.websitelayout.net/" target="_blank">
                     <span class="wlt-banner">
                         <span class="wlt-img-hover">
-                            <img src="img/preview/kargon-transport-logistics-html-template.jpg" alt="Kargon - Transport and Logistics HTML Template" />
+                            <img src="img/preview/kargon-transport-logistics-html-template.jpg"
+                                alt="Kargon - Transport and Logistics HTML Template" />
                         </span>
                         <span class="wlt-banner-info">
                             <span class="wlt-banner-name">
@@ -601,7 +463,8 @@
                 <a href="https://flywebhtml.websitelayout.net/" target="_blank">
                     <span class="wlt-banner">
                         <span class="wlt-img-hover">
-                            <img src="img/preview/flyweb-web-design-agency-html-template.jpg" alt="Flyweb - Web Design Agency HTML Template" />
+                            <img src="img/preview/flyweb-web-design-agency-html-template.jpg"
+                                alt="Flyweb - Web Design Agency HTML Template" />
                         </span>
                         <span class="wlt-banner-info">
                             <span class="wlt-banner-name">
@@ -619,7 +482,8 @@
                 <a href="https://monityhtml.websitelayout.net/" target="_blank">
                     <span class="wlt-banner">
                         <span class="wlt-img-hover">
-                            <img src="img/preview/monityâcctv-security-html-template.jpg" alt="Monity – CCTV & Security HTML Template" />
+                            <img src="img/preview/monityâcctv-security-html-template.jpg"
+                                alt="Monity – CCTV & Security HTML Template" />
                         </span>
                         <span class="wlt-banner-info">
                             <span class="wlt-banner-name">
@@ -630,11 +494,12 @@
                             </span>
                         </span>
                     </span>
-                </a>                
+                </a>
                 <a href="https://proliohtml.websitelayout.net/" target="_blank">
                     <span class="wlt-banner">
                         <span class="wlt-img-hover">
-                            <img src="img/preview/prolio-business-consulting-html-template.jpg" alt="Prolio - Business Consulting HTML Template" />
+                            <img src="img/preview/prolio-business-consulting-html-template.jpg"
+                                alt="Prolio - Business Consulting HTML Template" />
                         </span>
                         <span class="wlt-banner-info">
                             <span class="wlt-banner-name">
@@ -649,7 +514,8 @@
                 <a href="https://solutichtml.websitelayout.net/preview.html" target="_blank">
                     <span class="wlt-banner">
                         <span class="wlt-img-hover">
-                            <img src="img/preview/solutic-it-solutions-services-html-template.jpg" alt="Solutic - IT Solutions and Services HTML Template" />
+                            <img src="img/preview/solutic-it-solutions-services-html-template.jpg"
+                                alt="Solutic - IT Solutions and Services HTML Template" />
                         </span>
                         <span class="wlt-banner-info">
                             <span class="wlt-banner-name">
@@ -664,7 +530,8 @@
                 <a href="../habitrohtml.websitelayout.net/preview.html" target="_blank">
                     <span class="wlt-banner">
                         <span class="wlt-img-hover">
-                            <img src="img/preview/habitro-nutrition-health-diet-html-template.jpg" alt="Habitro - Nutrition Health and Diet HTML Template" />
+                            <img src="img/preview/habitro-nutrition-health-diet-html-template.jpg"
+                                alt="Habitro - Nutrition Health and Diet HTML Template" />
                         </span>
                         <span class="wlt-banner-info">
                             <span class="wlt-banner-name">
@@ -679,7 +546,8 @@
                 <a href="https://topwebs.websitelayout.net/" target="_blank">
                     <span class="wlt-banner">
                         <span class="wlt-img-hover">
-                            <img src="img/preview/topweb-web-design-agency-html-template.jpg" alt="Topweb - Web Design Agency HTML Template" />
+                            <img src="img/preview/topweb-web-design-agency-html-template.jpg"
+                                alt="Topweb - Web Design Agency HTML Template" />
                         </span>
                         <span class="wlt-banner-info">
                             <span class="wlt-banner-name">
@@ -694,7 +562,8 @@
                 <a href="../lifesthtml.websitelayout.net/preview.html" target="_blank">
                     <span class="wlt-banner">
                         <span class="wlt-img-hover">
-                            <img src="img/preview/lifest-insurance-agency-html-template.jpg" alt="Lifest - Insurance Agency HTML Template" />
+                            <img src="img/preview/lifest-insurance-agency-html-template.jpg"
+                                alt="Lifest - Insurance Agency HTML Template" />
                         </span>
                         <span class="wlt-banner-info">
                             <span class="wlt-banner-name">
@@ -709,7 +578,8 @@
                 <a href="https://renumahtml.websitelayout.net/" target="_blank">
                     <span class="wlt-banner">
                         <span class="wlt-img-hover">
-                            <img src="img/preview/renuma-solar-renewable-energy-html-template.jpg" alt="Renuma - Solar & Renewable Energy HTML Template" />
+                            <img src="img/preview/renuma-solar-renewable-energy-html-template.jpg"
+                                alt="Renuma - Solar & Renewable Energy HTML Template" />
                         </span>
                         <span class="wlt-banner-info">
                             <span class="wlt-banner-name">
@@ -725,7 +595,8 @@
         </div>
 
         <div class="wlt-bottom-button">
-            <a class="wlt-link" href="mailto:websitelayout3@gmail.com" target="_blank">Any Query or Support? Please feel free to contact us at -    websitelayout3@gmail.com</a>
+            <a class="wlt-link" href="mailto:websitelayout3@gmail.com" target="_blank">Any Query or Support? Please feel
+                free to contact us at - websitelayout3@gmail.com</a>
         </div>
 
     </div>
@@ -769,4 +640,5 @@
 
 
 <!-- Mirrored from metaryhtml.websitelayout.net/about.html by HTTrack Website Copier/3.x [XR&CO'2014], Tue, 28 Oct 2025 11:41:27 GMT -->
+
 </html>
