@@ -2,7 +2,7 @@
 <html lang="en">
 
 
-<!-- Mirrored from metaryhtml.websitelayout.net/services.html by HTTrack Website Copier/3.x [XR&CO'2014], Tue, 28 Oct 2025 11:41:28 GMT -->
+<!-- Mirrored from metaryhtml.websitelayout.net/services.php by HTTrack Website Copier/3.x [XR&CO'2014], Tue, 28 Oct 2025 11:41:28 GMT -->
 
 <head>
 
@@ -11,12 +11,10 @@
     <meta name="author" content="Website Layout">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta name="keywords" content="Industry & Factory HTML Template">
-    <meta name="description"
-        content="Metary is a modern, responsive HTML template designed for industrial, factory, and power‑technology businesses. Featuring ready‑made pages like Services, Portfolio, Blog, Team, Pricing, and Contact.">
+    <meta name="description" content="Jodia Energies & Logistics | Energy, Logistics & Industrial Solutions.">
 
     <!-- title  -->
-    <title>Metary – Industry & Factory HTML Template | Power & Automation Technologies</title>
+    <title>Jodia Energies & Logistics | Energy, Logistics & Industrial Solutions</title>
 
     <!-- favicon -->
     <link rel="shortcut icon" href="img/logos/favicon.png">
@@ -62,7 +60,7 @@
             <div class="container">
                 <h1>Our Services</h1>
                 <ul>
-                    <li><a href="index.html">Home</a></li>
+                    <li><a href="index.php">Home</a></li>
                     <li>Our Services</li>
                 </ul>
             </div>
@@ -85,7 +83,7 @@
                                 <img src="img/service/service-01.jpg" alt="..." class="rounded-top">
                             </div>
                             <div class="card-body text-center">
-                                <h3 class="mb-0 h5"><a href="oil-gas-engineering.html">Oil & Gas Engineering</a></h3>
+                                <h3 class="mb-0 h5"><a href="diesel-supply.php">Diesel Supply</a></h3>
                             </div>
                         </div>
                     </div>
@@ -95,7 +93,7 @@
                                 <img src="img/service/service-02.jpg" alt="..." class="rounded-top">
                             </div>
                             <div class="card-body text-center">
-                                <h3 class="mb-0 h5"><a href="mechanical-engineering.html">Mechanical Engineering</a>
+                                <h3 class="mb-0 h5"><a href="logistics-haulage.php">Logistics and Haulage</a>
                                 </h3>
                             </div>
                         </div>
@@ -106,7 +104,7 @@
                                 <img src="img/service/service-03.jpg" alt="..." class="rounded-top">
                             </div>
                             <div class="card-body text-center">
-                                <h3 class="mb-0 h5"><a href="automotive-manufacturing.html">Automotive Manufacturing</a>
+                                <h3 class="mb-0 h5"><a href="plant-maintenance.php">Routine Plant Maintenance</a>
                                 </h3>
                             </div>
                         </div>
@@ -117,7 +115,8 @@
                                 <img src="img/service/service-04.jpg" alt="..." class="rounded-top">
                             </div>
                             <div class="card-body text-center">
-                                <h3 class="mb-0 h5"><a href="chemical-research.html">Chemical Research</a></h3>
+                                <h3 class="mb-0 h5"><a href="diesel-storage-tanks.php">Installation of Diesel Storage
+                                        Tanks</a></h3>
                             </div>
                         </div>
                     </div>
@@ -127,7 +126,8 @@
                                 <img src="img/service/service-05.jpg" alt="..." class="rounded-top">
                             </div>
                             <div class="card-body text-center">
-                                <h3 class="mb-0 h5"><a href="industrial-construction.html">Industrial Construction</a>
+                                <h3 class="mb-0 h5"><a href="tank-calibration.php">Calibration Of Tanks (Truck &
+                                        Underground)</a>
                                 </h3>
                             </div>
                         </div>
@@ -138,7 +138,7 @@
                                 <img src="img/service/service-06.jpg" alt="..." class="rounded-top">
                             </div>
                             <div class="card-body text-center">
-                                <h3 class="mb-0 h5"><a href="civil-engineering.html">Civil Engineering</a></h3>
+                                <h3 class="mb-0 h5"><a href="solar-energy.php">Solar Energy Solutions</a></h3>
                             </div>
                         </div>
                     </div>
@@ -148,49 +148,7 @@
 
         <!-- TESTIMONIAL
         ================================================== -->
-        <section class="pb-0 pt-24 ms-lg-10 item bg-img overflow-visible cover-background rounded-start"
-            data-background="img/bg/bg-03.jpg">
-            <div class="container">
-                <div class="row justify-content-end">
-                    <div class="col-lg-8 col-xl-6">
-                        <div class="bg-secondary rounded-top">
-                            <div class="section-title-01 mb-5 px-1-9 px-md-6 pt-1-9 pt-md-6">
-                                <img src="img/icons/quote-02.png" class="w-60px mb-4" alt="...">
-                                <h2 class="display-5 lh-1 font-weight-800 mb-0 text-white">What our happy client say
-                                    about us</h2>
-                            </div>
-                            <div class="testimonial-carousel1 owl-carousel owl-theme px-1-9 px-md-6 pb-7"
-                                data-slider-id="1">
-                                <div>
-                                    <p class="text-white display-28 mb-2-6">I can't say enough about industrial.
-                                        Industrial has really helped our business. Would definitely recommend industrial
-                                        and will definitely be ordering again. Industrial has made a huge difference! I
-                                        have tried a few software of this kind and industrial is the best by far!
-                                        Industrial is exactly what i've been looking for.</p>
-                                    <h5 class="text-white mb-0"> Fesahaye Bisrat / MD Peaceful </h5>
-                                </div>
-                                <div>
-                                    <p class="text-white display-28 mb-2-6">I highly recommend industrial. It has been
-                                        so important for us as we continue to grow our company. I have been using
-                                        industrial for over a year now and i love it! I can't imagine life without it.
-                                        It's so easy to use, and the customer service is great. I have tried a lot of
-                                        similar products and Industrial is the best!</p>
-                                    <h5 class="text-white mb-0"> Demsas Luwam / CEO Peaceful </h5>
-                                </div>
-                                <div>
-                                    <p class="text-white display-28 mb-2-6">Instead of drowning in an endless chain of
-                                        emails, there is clear and easy accountability meaning tasks actually get done!
-                                        With industrial, we have finally accomplished things that have been waiting
-                                        forever to get done. With industrial, communication between all of us is far
-                                        more efficient. A game changer.</p>
-                                    <h5 class="text-white mb-0"> Iggi Tewolde / Manager Peaceful </h5>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </section>
+        <?php include "includes/testimonials.php" ?>
 
         <!-- FAQ
         ================================================== -->
@@ -201,13 +159,16 @@
                         <div class="pe-lg-7">
                             <div class="section-title-01 mb-1-9 wow fadeInUp" data-wow-dela="100ms">
                                 <span
-                                    class="text-primary font-weight-600 text-uppercase letter-spacing-1 position-relative ps-2">Faq</span>
-                                <h2 class="display-5 lh-1 font-weight-800 mb-0">Solutions for residentials & industries!
+                                    class="text-primary font-weight-600 text-uppercase letter-spacing-1 position-relative ps-2">FAQ</span>
+                                <h2 class="display-5 lh-1 font-weight-800 mb-0">Answers to Your Questions about Jodia
+                                    Energies & Logistics
                                 </h2>
                             </div>
-                            <p class="mb-1-9">Constructor clarifies how you can appreciate top of the line flooring
-                                patterns like finished wood and with new cover flooring.</p>
-                            <a href="about.html" class="btn-style1"><span>Learn More</span></a>
+                            <p class="mb-1-9">Find quick answers to common questions about our dependable energy and
+                                logistics solutions. From diesel supply to solar installations, plant maintenance, and
+                                haulage, we're here to provide clarity on how we power businesses, industries, and
+                                communities across Nigeria.</p>
+                            <a href="faq.php" class="btn-style1"><span>View All FAQs</span></a>
                         </div>
                     </div>
                     <div class="col-lg-6 mt-2-9 wow fadeIn" data-wow-delay="150ms">
@@ -218,16 +179,19 @@
                                         <h5 class="mb-0">
                                             <button class="btn btn-link" data-bs-toggle="collapse"
                                                 data-bs-target="#collapseOne" aria-expanded="true"
-                                                aria-controls="collapseOne">1. Where i can find instructions to
-                                                technology process?</button>
+                                                aria-controls="collapseOne">1. What services does Jodia Energies &
+                                                Logistics Ltd provide?</button>
                                         </h5>
                                     </div>
                                     <div id="collapseOne" class="collapse show" aria-labelledby="headingOne"
                                         data-bs-parent="#accordion">
                                         <div class="card-body">
-                                            We are committed to providing our customers with exceptional service while
-                                            offering our employees the best training. There are many variations of
-                                            passages of lorem ipsum is simply free text.
+                                            Jodia Energies & Logistics Ltd offers a comprehensive range of energy and
+                                            logistics solutions. Our services include diesel supply, solar energy
+                                            solutions, routine plant maintenance, tank calibration (truck and
+                                            underground), integration of diesel storage tanks, logistics and haulage,
+                                            oil and gas engineering, mechanical engineering, automotive manufacturing,
+                                            chemical research, industrial construction, and civil engineering.
                                         </div>
                                     </div>
                                 </div>
@@ -236,33 +200,35 @@
                                         <h5 class="mb-0">
                                             <button class="btn btn-link collapsed" data-bs-toggle="collapse"
                                                 data-bs-target="#collapseTwo" aria-expanded="false"
-                                                aria-controls="collapseTwo">2. How to work with industrium?</button>
+                                                aria-controls="collapseTwo">2. Where does Jodia Energies & Logistics Ltd
+                                                operate?</button>
                                         </h5>
                                     </div>
                                     <div id="collapseTwo" class="collapse" aria-labelledby="headingTwo"
                                         data-bs-parent="#accordion">
                                         <div class="card-body">
-                                            We are committed to providing our customers with exceptional service while
-                                            offering our employees the best training. There are many variations of
-                                            passages of lorem ipsum is simply free text.
+                                            We are a growing Nigerian downstream oil and gas company, committed to
+                                            providing dependable energy and logistics solutions that drive businesses,
+                                            industries, and communities across Nigeria.
                                         </div>
                                     </div>
                                 </div>
-                                <div class="card">
+                                <div class="card mb-3">
                                     <div class="card-header" id="headingThree">
                                         <h5 class="mb-0">
                                             <button class="btn btn-link collapsed" data-bs-toggle="collapse"
                                                 data-bs-target="#collapseThree" aria-expanded="false"
-                                                aria-controls="collapseThree">3. Basic part of property for human
-                                                life?</button>
+                                                aria-controls="collapseThree">3. What makes Jodia Energies & Logistics
+                                                Ltd's diesel supply reliable?</button>
                                         </h5>
                                     </div>
                                     <div id="collapseThree" class="collapse" aria-labelledby="headingThree"
                                         data-bs-parent="#accordion">
                                         <div class="card-body">
-                                            We are committed to providing our customers with exceptional service while
-                                            offering our employees the best training. There are many variations of
-                                            passages of lorem ipsum is simply free text.
+                                            We are committed to consistent, dependable service in diesel supply. Our
+                                            processes include precise tank calibration and efficient logistics and
+                                            haulage to ensure that you receive high-quality diesel exactly when and
+                                            where you need it, minimizing downtime for your operations.
                                         </div>
                                     </div>
                                 </div>
@@ -271,205 +237,12 @@
                     </div>
                 </div>
             </div>
-        </section>
-
-        <!-- FOOTER
-        ================================================== -->
-        <?php include "includes/footer.php" ?>
-
     </div>
+    </section>
 
-    <!-- BUY THEME
-    ================================================== -->
-    <div class="buy-theme alt-font d-none d-lg-inline-block"><a
-            href="https://themeforest.net/item/metary-industry-factory-html-template/59328958" target="_blank"><i
-                class="fas fa-cart-plus"></i><span>Purchase Metary Template</span></a></div>
-
-    <div class="wlt-overlay-bg"></div>
-
-    <div class="wlt-sidebar-main" id="wlt-sidebar-main">
-
-        <div class="popular-theme alt-font d-none d-lg-inline-block wl-btn wlt-btn"><a href="#!"><i
-                    class="fa-solid fa-layer-group"></i><span>Popular Templates & More..</span></a></div>
-
-        <div class="wlt-sidebar-inner scrollbar-macosx" id="wlt-sidebar-inner">
-            <div class="wlt-banner-section">
-                <div class="wlt-heading">
-                    <h3><span>WordPress Version</span></h3>
-                </div>
-                <a href="https://metarypreview.websitelayout.net/" target="_blank">
-                    <span class="wlt-banner">
-                        <span class="wlt-img-hover">
-                            <img src="img/preview/metary-industry-factory-wordpress-theme.jpg"
-                                alt="Metary - Industry & Factory WordPress Theme" />
-                        </span>
-                        <span class="wlt-banner-info">
-                            <span class="wlt-banner-name">
-                                <span class="wlt-proj-name">Metary WordPress Theme</span>
-                            </span>
-                            <span class="wlt-proj-price">
-                                <bdi><span>&#36;</span>59.00</bdi>
-                            </span>
-                        </span>
-                    </span>
-                </a>
-                <div class="wlt-heading">
-                    <h3><span>Featured Theme</span></h3>
-                </div>
-                <a href="https://kargonhtml.websitelayout.net/" target="_blank">
-                    <span class="wlt-banner">
-                        <span class="wlt-img-hover">
-                            <img src="img/preview/kargon-transport-logistics-html-template.jpg"
-                                alt="Kargon - Transport and Logistics HTML Template" />
-                        </span>
-                        <span class="wlt-banner-info">
-                            <span class="wlt-banner-name">
-                                <span class="wlt-proj-name">Kargon</span>
-                            </span>
-                            <span class="wlt-proj-price">
-                                <bdi><span>&#36;</span>19.00</bdi>
-                            </span>
-                        </span>
-                    </span>
-                </a>
-                <a href="https://flywebhtml.websitelayout.net/" target="_blank">
-                    <span class="wlt-banner">
-                        <span class="wlt-img-hover">
-                            <img src="img/preview/flyweb-web-design-agency-html-template.jpg"
-                                alt="Flyweb - Web Design Agency HTML Template" />
-                        </span>
-                        <span class="wlt-banner-info">
-                            <span class="wlt-banner-name">
-                                <span class="wlt-proj-name">Flyweb</span>
-                            </span>
-                            <span class="wlt-proj-price">
-                                <bdi><span>&#36;</span>19.00</bdi>
-                            </span>
-                        </span>
-                    </span>
-                </a>
-                <div class="wlt-heading">
-                    <h3><span>Popular Theme</span></h3>
-                </div>
-                <a href="https://monityhtml.websitelayout.net/" target="_blank">
-                    <span class="wlt-banner">
-                        <span class="wlt-img-hover">
-                            <img src="img/preview/monityâcctv-security-html-template.jpg"
-                                alt="Monity – CCTV & Security HTML Template" />
-                        </span>
-                        <span class="wlt-banner-info">
-                            <span class="wlt-banner-name">
-                                <span class="wlt-proj-name">Monity</span>
-                            </span>
-                            <span class="wlt-proj-price">
-                                <bdi><span>&#36;</span>19.00</bdi>
-                            </span>
-                        </span>
-                    </span>
-                </a>
-                <a href="https://proliohtml.websitelayout.net/" target="_blank">
-                    <span class="wlt-banner">
-                        <span class="wlt-img-hover">
-                            <img src="img/preview/prolio-business-consulting-html-template.jpg"
-                                alt="Prolio - Business Consulting HTML Template" />
-                        </span>
-                        <span class="wlt-banner-info">
-                            <span class="wlt-banner-name">
-                                <span class="wlt-proj-name">Prolio</span>
-                            </span>
-                            <span class="wlt-proj-price">
-                                <bdi><span>&#36;</span>19.00</bdi>
-                            </span>
-                        </span>
-                    </span>
-                </a>
-                <a href="https://solutichtml.websitelayout.net/preview.html" target="_blank">
-                    <span class="wlt-banner">
-                        <span class="wlt-img-hover">
-                            <img src="img/preview/solutic-it-solutions-services-html-template.jpg"
-                                alt="Solutic - IT Solutions and Services HTML Template" />
-                        </span>
-                        <span class="wlt-banner-info">
-                            <span class="wlt-banner-name">
-                                <span class="wlt-proj-name">Solutic</span>
-                            </span>
-                            <span class="wlt-proj-price">
-                                <bdi><span>&#36;</span>19.00</bdi>
-                            </span>
-                        </span>
-                    </span>
-                </a>
-                <a href="../habitrohtml.websitelayout.net/preview.html" target="_blank">
-                    <span class="wlt-banner">
-                        <span class="wlt-img-hover">
-                            <img src="img/preview/habitro-nutrition-health-diet-html-template.jpg"
-                                alt="Habitro - Nutrition Health and Diet HTML Template" />
-                        </span>
-                        <span class="wlt-banner-info">
-                            <span class="wlt-banner-name">
-                                <span class="wlt-proj-name">Habitro</span>
-                            </span>
-                            <span class="wlt-proj-price">
-                                <bdi><span>&#36;</span>19.00</bdi>
-                            </span>
-                        </span>
-                    </span>
-                </a>
-                <a href="https://topwebs.websitelayout.net/" target="_blank">
-                    <span class="wlt-banner">
-                        <span class="wlt-img-hover">
-                            <img src="img/preview/topweb-web-design-agency-html-template.jpg"
-                                alt="Topweb - Web Design Agency HTML Template" />
-                        </span>
-                        <span class="wlt-banner-info">
-                            <span class="wlt-banner-name">
-                                <span class="wlt-proj-name">Topweb</span>
-                            </span>
-                            <span class="wlt-proj-price">
-                                <bdi><span>&#36;</span>19.00</bdi>
-                            </span>
-                        </span>
-                    </span>
-                </a>
-                <a href="../lifesthtml.websitelayout.net/preview.html" target="_blank">
-                    <span class="wlt-banner">
-                        <span class="wlt-img-hover">
-                            <img src="img/preview/lifest-insurance-agency-html-template.jpg"
-                                alt="Lifest - Insurance Agency HTML Template" />
-                        </span>
-                        <span class="wlt-banner-info">
-                            <span class="wlt-banner-name">
-                                <span class="wlt-proj-name">Lifest</span>
-                            </span>
-                            <span class="wlt-proj-price">
-                                <bdi><span>&#36;</span>19.00</bdi>
-                            </span>
-                        </span>
-                    </span>
-                </a>
-                <a href="https://renumahtml.websitelayout.net/" target="_blank">
-                    <span class="wlt-banner">
-                        <span class="wlt-img-hover">
-                            <img src="img/preview/renuma-solar-renewable-energy-html-template.jpg"
-                                alt="Renuma - Solar & Renewable Energy HTML Template" />
-                        </span>
-                        <span class="wlt-banner-info">
-                            <span class="wlt-banner-name">
-                                <span class="wlt-proj-name">Renuma</span>
-                            </span>
-                            <span class="wlt-proj-price">
-                                <bdi><span>&#36;</span>19.00</bdi>
-                            </span>
-                        </span>
-                    </span>
-                </a>
-            </div>
-        </div>
-
-        <div class="wlt-bottom-button">
-            <a class="wlt-link" href="mailto:websitelayout3@gmail.com" target="_blank">Any Query or Support? Please feel
-                free to contact us at - websitelayout3@gmail.com</a>
-        </div>
+    <!-- FOOTER
+        ================================================== -->
+    <?php include "includes/footer.php" ?>
 
     </div>
 
@@ -511,6 +284,6 @@
 </body>
 
 
-<!-- Mirrored from metaryhtml.websitelayout.net/services.html by HTTrack Website Copier/3.x [XR&CO'2014], Tue, 28 Oct 2025 11:41:28 GMT -->
+<!-- Mirrored from metaryhtml.websitelayout.net/services.php by HTTrack Website Copier/3.x [XR&CO'2014], Tue, 28 Oct 2025 11:41:28 GMT -->
 
 </html>

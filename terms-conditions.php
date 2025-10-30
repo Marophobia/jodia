@@ -3,6 +3,7 @@
 
 
 <!-- Mirrored from metaryhtml.websitelayout.net/terms-conditions.html by HTTrack Website Copier/3.x [XR&CO'2014], Tue, 28 Oct 2025 11:41:27 GMT -->
+
 <head>
 
     <!-- metas -->
@@ -11,7 +12,8 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="keywords" content="Industry & Factory HTML Template">
-    <meta name="description" content="Metary is a modern, responsive HTML template designed for industrial, factory, and power‑technology businesses. Featuring ready‑made pages like Services, Portfolio, Blog, Team, Pricing, and Contact.">
+    <meta name="description"
+        content="Metary is a modern, responsive HTML template designed for industrial, factory, and power‑technology businesses. Featuring ready‑made pages like Services, Portfolio, Blog, Team, Pricing, and Contact.">
 
     <!-- title  -->
     <title>Metary – Industry & Factory HTML Template | Power & Automation Technologies</title>
@@ -35,7 +37,7 @@
     <link rel="stylesheet" href="css/scrollbar.css">
 
     <!-- theme core css -->
-    <link href="css/styles.css" rel="stylesheet">    
+    <link href="css/styles.css" rel="stylesheet">
 
 </head>
 
@@ -63,7 +65,8 @@
                                 <span class="input-group-addon cursor-pointer">
                                     <button class="search-form_submit fas fa-search text-white" type="submit"></button>
                                 </span>
-                                <input type="text" class="search-form_input form-control" name="s" autocomplete="off" placeholder="Type & hit enter...">
+                                <input type="text" class="search-form_input form-control" name="s" autocomplete="off"
+                                    placeholder="Type & hit enter...">
                                 <span class="input-group-addon close-search mt-1"><i class="fas fa-times"></i></span>
                             </div>
                         </form>
@@ -78,7 +81,8 @@
                                 <nav class="navbar navbar-expand-lg navbar-light p-0">
                                     <div class="navbar-header navbar-header-custom">
                                         <!-- start logo -->
-                                        <a href="index.html" class="navbar-brand"><img id="logo" src="img/logos/logo-inner.png" alt="logo" /></a>
+                                        <a href="index.php" class="navbar-brand"><img id="logo"
+                                                src="img/logos/logo-inner.png" alt="logo" /></a>
                                         <!-- end logo -->
                                     </div>
 
@@ -88,7 +92,7 @@
                                     <ul class="navbar-nav ms-auto" id="nav" style="display: none;">
                                         <li><a href="#">Home</a>
                                             <ul>
-                                                <li><a href="index.html">Home 01</a></li>
+                                                <li><a href="index.php">Home 01</a></li>
                                                 <li><a href="index-02.html">Home 02 - Dark Menu</a></li>
                                                 <li><a href="index-03.html">Home 03</a></li>
                                             </ul>
@@ -118,10 +122,13 @@
                                             <ul>
                                                 <li><a href="services.html">Our Services</a></li>
                                                 <li><a href="oil-gas-engineering.html">Oil & Gas Engineering</a></li>
-                                                <li><a href="mechanical-engineering.html">Mechanical Engineering</a></li>
-                                                <li><a href="automotive-manufacturing.html">Automotive Manufacturing</a></li>
+                                                <li><a href="mechanical-engineering.html">Mechanical Engineering</a>
+                                                </li>
+                                                <li><a href="automotive-manufacturing.html">Automotive Manufacturing</a>
+                                                </li>
                                                 <li><a href="chemical-research.html">Chemical Research</a></li>
-                                                <li><a href="industrial-construction.html">Industrial Construction</a></li>
+                                                <li><a href="industrial-construction.html">Industrial Construction</a>
+                                                </li>
                                                 <li><a href="civil-engineering.html">Civil Engineerin</a></li>
                                             </ul>
                                         </li>
@@ -144,8 +151,10 @@
                                                 <li><a href="#">Blog Grid</a>
                                                     <ul>
                                                         <li><a href="blog-grid-two-columns.html">2 Columns</a></li>
-                                                        <li><a href="blog-grid-two-columns-left-sidebar.html">2 Col – Left Sidebar</a></li>
-                                                        <li><a href="blog-grid-two-columns-right-sidebar.html">2 Col – Right Sidebar</a></li>
+                                                        <li><a href="blog-grid-two-columns-left-sidebar.html">2 Col –
+                                                                Left Sidebar</a></li>
+                                                        <li><a href="blog-grid-two-columns-right-sidebar.html">2 Col –
+                                                                Right Sidebar</a></li>
                                                         <li><a href="blog-grid.html">3 Columns - Standard</a></li>
                                                     </ul>
                                                 </li>
@@ -161,7 +170,9 @@
                                     <div class="attr-nav align-items-xl-center ms-xl-auto main-font">
                                         <ul>
                                             <li class="search"><a href="#"><i class="fas fa-search"></i></a></li>
-                                            <li class="d-none d-xl-inline-block"><a href="contact.html" class="btn-style1 white-hover small"><span>Free Quote</span></a></li>
+                                            <li class="d-none d-xl-inline-block"><a href="contact.html"
+                                                    class="btn-style1 white-hover small"><span>Free Quote</span></a>
+                                            </li>
                                         </ul>
                                     </div>
                                     <!-- end attribute navigation -->
@@ -175,13 +186,14 @@
 
         <!-- PAGE TITLE
         ================================================== -->
-        <section class="page-title-section top-position1 bg-img cover-background left-overlay-secondary" data-overlay-dark="85" data-background="img/banner/page-title-01.jpg">
-            <div class="container">                
+        <section class="page-title-section top-position1 bg-img cover-background left-overlay-secondary"
+            data-overlay-dark="85" data-background="img/banner/page-title-01.jpg">
+            <div class="container">
                 <h1>Terms & Conditions</h1>
                 <ul>
-                    <li><a href="index.html">Home</a></li>
+                    <li><a href="index.php">Home</a></li>
                     <li>Terms & Conditions</li>
-                </ul>                
+                </ul>
             </div>
         </section>
 
@@ -194,22 +206,35 @@
                     <div class="col-md-9">
                         <div class="mb-5">
                             <h3 class="mb-4 h4">Introduction</h3>
-                            <p>Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium.</p>
-                            <p class="pb-0">Laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Duis aute irure dolor in reprehenderit moditempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem in reprehenderit moditempora incidunt ut labore et dolore.</p>
+                            <p>Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit
+                                anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem
+                                accusantium.</p>
+                            <p class="pb-0">Laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis
+                                et quasi architecto beatae vitae dicta sunt explicabo. Duis aute irure dolor in
+                                reprehenderit moditempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem
+                                in reprehenderit moditempora incidunt ut labore et dolore.</p>
                         </div>
                         <div class="mb-5">
                             <h3 class="mb-4 h4">Use of user information.</h3>
-                            <p>Eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Duis aute irure dolor in reprehenderit moditempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem in reprehenderit moditempora incidunt ut labore et dolore ut labore et dolore magnam aliquam quaerat voluptatem.</p>
+                            <p>Eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt
+                                explicabo. Duis aute irure dolor in reprehenderit moditempora incidunt ut labore et
+                                dolore magnam aliquam quaerat voluptatem in reprehenderit moditempora incidunt ut labore
+                                et dolore ut labore et dolore magnam aliquam quaerat voluptatem.</p>
                             <ul class="list-style2 mb-4 ps-0">
                                 <li>Veritatis et quasi architecto beatae vitae</li>
                                 <li>Aliquam quaerat voluptatem in reprehenderit</li>
                                 <li>Moditempora incidunt ut labore et dolore</li>
                             </ul>
-                            <p class="mb-0">Inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Duis aute irure dolor in reprehenderit moditempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem in reprehenderit moditempora incidunt ut labore et dolore.</p>
+                            <p class="mb-0">Inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.
+                                Duis aute irure dolor in reprehenderit moditempora incidunt ut labore et dolore magnam
+                                aliquam quaerat voluptatem in reprehenderit moditempora incidunt ut labore et dolore.
+                            </p>
                         </div>
                         <div>
                             <h3 class="mb-4 h4">Disclosure of user information.</h3>
-                            <p class="mb-0">Quasi architecto beatae vitae dicta sunt explicabo. Duis aute irure dolor in reprehenderit moditempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem in reprehenderit moditempora incidunt ut labore et dolore.</p>
+                            <p class="mb-0">Quasi architecto beatae vitae dicta sunt explicabo. Duis aute irure dolor in
+                                reprehenderit moditempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem
+                                in reprehenderit moditempora incidunt ut labore et dolore.</p>
                         </div>
                     </div>
 
@@ -225,9 +250,11 @@
                     <div class="col-md-6 col-lg-4 mt-2-9">
                         <div class="pe-md-1-6 pe-xxl-7">
                             <div class="footer-logo mb-1-6">
-                                <a href="index.html"><img src="img/logos/footer-light-logo.png" alt="..."></a>
+                                <a href="index.php"><img src="img/logos/footer-light-logo.png" alt="..."></a>
                             </div>
-                            <p class="text-white mb-0 opacity8">We have 14+ years experience. Helping you overcome technology challenges. we are dedicated to provides the best solutions to our valued customers.</p>
+                            <p class="text-white mb-0 opacity8">We have 14+ years experience. Helping you overcome
+                                technology challenges. we are dedicated to provides the best solutions to our valued
+                                customers.</p>
                         </div>
                     </div>
                     <div class="col-md-6 col-lg-4 mt-2-9">
@@ -236,7 +263,7 @@
                             <div class="row">
                                 <div class="col-6">
                                     <ul class="links-wrap list-unstyled mb-0">
-                                        <li><a href="index.html">Home</a></li>
+                                        <li><a href="index.php">Home</a></li>
                                         <li><a href="about.html">About</a></li>
                                         <li><a href="services.html">Services</a></li>
                                         <li><a href="portfolio.html">Our Projects</a></li>
@@ -256,8 +283,10 @@
                     <div class="col-md-6 col-lg-4 mt-2-9">
                         <div class="ps-lg-5">
                             <h3 class="text-white h4 mb-2-4">Newsletter</h3>
-                            <p class="text-white mb-1-6 display-28 opacity8">Subscribe to our newsletter to receive updates on the latest news!</p>
-                            <form class="quform newsletter-form" action="quform/newsletter-two.php" method="post" enctype="multipart/form-data" onclick="">
+                            <p class="text-white mb-1-6 display-28 opacity8">Subscribe to our newsletter to receive
+                                updates on the latest news!</p>
+                            <form class="quform newsletter-form" action="quform/newsletter-two.php" method="post"
+                                enctype="multipart/form-data" onclick="">
 
                                 <div class="quform-elements">
                                     <div class="row">
@@ -266,7 +295,8 @@
                                         <div class="col-md-12">
                                             <div class="quform-element mb-0">
                                                 <div class="quform-input">
-                                                    <input class="form-control" id="email_address" type="text" name="email_address" placeholder="Subscribe with us">
+                                                    <input class="form-control" id="email_address" type="text"
+                                                        name="email_address" placeholder="Subscribe with us">
                                                 </div>
                                             </div>
                                         </div>
@@ -275,7 +305,8 @@
                                         <!-- Begin Submit button -->
                                         <div class="col-md-12">
                                             <div class="quform-submit-inner">
-                                                <button class="btn btn-white text-white m-0" type="submit"><i class="fas fa-paper-plane"></i></button>
+                                                <button class="btn btn-white text-white m-0" type="submit"><i
+                                                        class="fas fa-paper-plane"></i></button>
                                             </div>
                                             <div class="quform-loading-wrap"><span class="quform-loading"></span></div>
                                         </div>
@@ -293,14 +324,19 @@
                 <div class="row mt-n4 align-items-center">
                     <div class="col-lg-6 mt-4">
                         <div class=" text-center text-lg-start">
-                            <p class="d-inline-block text-white mb-0">&copy; <span class="current-year"></span> Metary Powered by <a href="#" class="text-primary text-white-hover">Website Layout</a></p>
+                            <p class="d-inline-block text-white mb-0">&copy; <span class="current-year"></span> Metary
+                                Powered by <a href="#" class="text-primary text-white-hover">Website Layout</a></p>
                         </div>
                     </div>
                     <div class="col-lg-6 mt-4">
                         <div class="text-center text-lg-end">
                             <ul class="list-unstyled mb-0">
-                                <li class="display-30 d-inline-block border-end border-color-light-white pe-3 me-2 lh-1"><a href="terms-conditions.html" class="text-white text-primary-hover opacity7">Terms &amp; Conditions</a></li>
-                                <li class="display-30 d-inline-block lh-1"><a href="privacy-policy.html" class="text-white text-primary-hover opacity7">Privacy Policy</a></li>
+                                <li
+                                    class="display-30 d-inline-block border-end border-color-light-white pe-3 me-2 lh-1">
+                                    <a href="terms-conditions.html" class="text-white text-primary-hover opacity7">Terms
+                                        &amp; Conditions</a></li>
+                                <li class="display-30 d-inline-block lh-1"><a href="privacy-policy.html"
+                                        class="text-white text-primary-hover opacity7">Privacy Policy</a></li>
                             </ul>
                         </div>
                     </div>
@@ -312,13 +348,16 @@
 
     <!-- BUY THEME
     ================================================== -->
-    <div class="buy-theme alt-font d-none d-lg-inline-block"><a href="https://themeforest.net/item/metary-industry-factory-html-template/59328958" target="_blank"><i class="fas fa-cart-plus"></i><span>Purchase Metary Template</span></a></div> 
+    <div class="buy-theme alt-font d-none d-lg-inline-block"><a
+            href="https://themeforest.net/item/metary-industry-factory-html-template/59328958" target="_blank"><i
+                class="fas fa-cart-plus"></i><span>Purchase Metary Template</span></a></div>
 
     <div class="wlt-overlay-bg"></div>
 
     <div class="wlt-sidebar-main" id="wlt-sidebar-main">
 
-        <div class="popular-theme alt-font d-none d-lg-inline-block wl-btn wlt-btn"><a href="#!"><i class="fa-solid fa-layer-group"></i><span>Popular Templates & More..</span></a></div>
+        <div class="popular-theme alt-font d-none d-lg-inline-block wl-btn wlt-btn"><a href="#!"><i
+                    class="fa-solid fa-layer-group"></i><span>Popular Templates & More..</span></a></div>
 
         <div class="wlt-sidebar-inner scrollbar-macosx" id="wlt-sidebar-inner">
             <div class="wlt-banner-section">
@@ -328,7 +367,8 @@
                 <a href="https://metarypreview.websitelayout.net/" target="_blank">
                     <span class="wlt-banner">
                         <span class="wlt-img-hover">
-                            <img src="img/preview/metary-industry-factory-wordpress-theme.jpg" alt="Metary - Industry & Factory WordPress Theme" />
+                            <img src="img/preview/metary-industry-factory-wordpress-theme.jpg"
+                                alt="Metary - Industry & Factory WordPress Theme" />
                         </span>
                         <span class="wlt-banner-info">
                             <span class="wlt-banner-name">
@@ -339,14 +379,15 @@
                             </span>
                         </span>
                     </span>
-                </a>                
+                </a>
                 <div class="wlt-heading">
                     <h3><span>Featured Theme</span></h3>
                 </div>
                 <a href="https://kargonhtml.websitelayout.net/" target="_blank">
                     <span class="wlt-banner">
                         <span class="wlt-img-hover">
-                            <img src="img/preview/kargon-transport-logistics-html-template.jpg" alt="Kargon - Transport and Logistics HTML Template" />
+                            <img src="img/preview/kargon-transport-logistics-html-template.jpg"
+                                alt="Kargon - Transport and Logistics HTML Template" />
                         </span>
                         <span class="wlt-banner-info">
                             <span class="wlt-banner-name">
@@ -361,7 +402,8 @@
                 <a href="https://flywebhtml.websitelayout.net/" target="_blank">
                     <span class="wlt-banner">
                         <span class="wlt-img-hover">
-                            <img src="img/preview/flyweb-web-design-agency-html-template.jpg" alt="Flyweb - Web Design Agency HTML Template" />
+                            <img src="img/preview/flyweb-web-design-agency-html-template.jpg"
+                                alt="Flyweb - Web Design Agency HTML Template" />
                         </span>
                         <span class="wlt-banner-info">
                             <span class="wlt-banner-name">
@@ -379,7 +421,8 @@
                 <a href="https://monityhtml.websitelayout.net/" target="_blank">
                     <span class="wlt-banner">
                         <span class="wlt-img-hover">
-                            <img src="img/preview/monityâcctv-security-html-template.jpg" alt="Monity – CCTV & Security HTML Template" />
+                            <img src="img/preview/monityâcctv-security-html-template.jpg"
+                                alt="Monity – CCTV & Security HTML Template" />
                         </span>
                         <span class="wlt-banner-info">
                             <span class="wlt-banner-name">
@@ -390,11 +433,12 @@
                             </span>
                         </span>
                     </span>
-                </a>                
+                </a>
                 <a href="https://proliohtml.websitelayout.net/" target="_blank">
                     <span class="wlt-banner">
                         <span class="wlt-img-hover">
-                            <img src="img/preview/prolio-business-consulting-html-template.jpg" alt="Prolio - Business Consulting HTML Template" />
+                            <img src="img/preview/prolio-business-consulting-html-template.jpg"
+                                alt="Prolio - Business Consulting HTML Template" />
                         </span>
                         <span class="wlt-banner-info">
                             <span class="wlt-banner-name">
@@ -409,7 +453,8 @@
                 <a href="https://solutichtml.websitelayout.net/preview.html" target="_blank">
                     <span class="wlt-banner">
                         <span class="wlt-img-hover">
-                            <img src="img/preview/solutic-it-solutions-services-html-template.jpg" alt="Solutic - IT Solutions and Services HTML Template" />
+                            <img src="img/preview/solutic-it-solutions-services-html-template.jpg"
+                                alt="Solutic - IT Solutions and Services HTML Template" />
                         </span>
                         <span class="wlt-banner-info">
                             <span class="wlt-banner-name">
@@ -424,7 +469,8 @@
                 <a href="../habitrohtml.websitelayout.net/preview.html" target="_blank">
                     <span class="wlt-banner">
                         <span class="wlt-img-hover">
-                            <img src="img/preview/habitro-nutrition-health-diet-html-template.jpg" alt="Habitro - Nutrition Health and Diet HTML Template" />
+                            <img src="img/preview/habitro-nutrition-health-diet-html-template.jpg"
+                                alt="Habitro - Nutrition Health and Diet HTML Template" />
                         </span>
                         <span class="wlt-banner-info">
                             <span class="wlt-banner-name">
@@ -439,7 +485,8 @@
                 <a href="https://topwebs.websitelayout.net/" target="_blank">
                     <span class="wlt-banner">
                         <span class="wlt-img-hover">
-                            <img src="img/preview/topweb-web-design-agency-html-template.jpg" alt="Topweb - Web Design Agency HTML Template" />
+                            <img src="img/preview/topweb-web-design-agency-html-template.jpg"
+                                alt="Topweb - Web Design Agency HTML Template" />
                         </span>
                         <span class="wlt-banner-info">
                             <span class="wlt-banner-name">
@@ -454,7 +501,8 @@
                 <a href="../lifesthtml.websitelayout.net/preview.html" target="_blank">
                     <span class="wlt-banner">
                         <span class="wlt-img-hover">
-                            <img src="img/preview/lifest-insurance-agency-html-template.jpg" alt="Lifest - Insurance Agency HTML Template" />
+                            <img src="img/preview/lifest-insurance-agency-html-template.jpg"
+                                alt="Lifest - Insurance Agency HTML Template" />
                         </span>
                         <span class="wlt-banner-info">
                             <span class="wlt-banner-name">
@@ -469,7 +517,8 @@
                 <a href="https://renumahtml.websitelayout.net/" target="_blank">
                     <span class="wlt-banner">
                         <span class="wlt-img-hover">
-                            <img src="img/preview/renuma-solar-renewable-energy-html-template.jpg" alt="Renuma - Solar & Renewable Energy HTML Template" />
+                            <img src="img/preview/renuma-solar-renewable-energy-html-template.jpg"
+                                alt="Renuma - Solar & Renewable Energy HTML Template" />
                         </span>
                         <span class="wlt-banner-info">
                             <span class="wlt-banner-name">
@@ -485,7 +534,8 @@
         </div>
 
         <div class="wlt-bottom-button">
-            <a class="wlt-link" href="mailto:websitelayout3@gmail.com" target="_blank">Any Query or Support? Please feel free to contact us at -    websitelayout3@gmail.com</a>
+            <a class="wlt-link" href="mailto:websitelayout3@gmail.com" target="_blank">Any Query or Support? Please feel
+                free to contact us at - websitelayout3@gmail.com</a>
         </div>
 
     </div>
@@ -529,4 +579,5 @@
 
 
 <!-- Mirrored from metaryhtml.websitelayout.net/terms-conditions.html by HTTrack Website Copier/3.x [XR&CO'2014], Tue, 28 Oct 2025 11:41:27 GMT -->
+
 </html>

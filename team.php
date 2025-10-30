@@ -11,12 +11,10 @@
     <meta name="author" content="Website Layout">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta name="keywords" content="Industry & Factory HTML Template">
-    <meta name="description"
-        content="Metary is a modern, responsive HTML template designed for industrial, factory, and power‑technology businesses. Featuring ready‑made pages like Services, Portfolio, Blog, Team, Pricing, and Contact.">
+    <meta name="description" content="Jodia Energies & Logistics | Energy, Logistics & Industrial Solutions.">
 
     <!-- title  -->
-    <title>Metary – Industry & Factory HTML Template | Power & Automation Technologies</title>
+    <title>Jodia Energies & Logistics | Energy, Logistics & Industrial Solutions</title>
 
     <!-- favicon -->
     <link rel="shortcut icon" href="img/logos/favicon.png">
@@ -63,7 +61,7 @@
             <div class="container">
                 <h1>Our Team</h1>
                 <ul>
-                    <li><a href="index.html">Home</a></li>
+                    <li><a href="index.php">Home</a></li>
                     <li>Our Team</li>
                 </ul>
             </div>

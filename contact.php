@@ -2,7 +2,7 @@
 <html lang="en">
 
 
-<!-- Mirrored from metaryhtml.websitelayout.net/contact.html by HTTrack Website Copier/3.x [XR&CO'2014], Tue, 28 Oct 2025 11:41:28 GMT -->
+<!-- Mirrored from metaryhtml.websitelayout.net/contact.php by HTTrack Website Copier/3.x [XR&CO'2014], Tue, 28 Oct 2025 11:41:28 GMT -->
 
 <head>
 
@@ -63,7 +63,7 @@
             <div class="container">
                 <h1>Contact Us</h1>
                 <ul>
-                    <li><a href="index.html">Home</a></li>
+                    <li><a href="index.php">Home</a></li>
                     <li>Contact Us</li>
                 </ul>
             </div>
@@ -291,6 +291,6 @@
 </body>
 
 
-<!-- Mirrored from metaryhtml.websitelayout.net/contact.html by HTTrack Website Copier/3.x [XR&CO'2014], Tue, 28 Oct 2025 11:41:28 GMT -->
+<!-- Mirrored from metaryhtml.websitelayout.net/contact.php by HTTrack Website Copier/3.x [XR&CO'2014], Tue, 28 Oct 2025 11:41:28 GMT -->
 
 </html>
