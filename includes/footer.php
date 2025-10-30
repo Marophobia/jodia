@@ -12,7 +12,7 @@
             </div>
             <div class="col-md-6 col-lg-4 mt-2-9">
                 <div class="ps-lg-5">
-                    <h3 class="text-white h4 mb-2-4">Contact Details</h3>
+                    <h3 class="text-white h4 mb-2-4">Contact</h3>
                     <ul class="list-unstyled mb-3">
                         <li class="d-flex align-items-start mb-3 text-white opacity8">
                             <i class="fa-solid fa-location-dot me-3 mt-1"></i>
@@ -28,6 +28,7 @@
                         </li>
                     </ul>
                     <div class="d-flex gap-3">
+                        <a href="https://wa.me/2348108776151" aria-label="WhatsApp" class="text-white"><i class="fab fa-whatsapp"></i></a>
                         <a href="https://www.facebook.com/profile.php?id=61579582250996&mibextid=wwXIfr&mibextid=wwXIfr" aria-label="Facebook" class="text-white"><i class="fab fa-facebook-f"></i></a>
                         <a href="https://www.instagram.com/jodiaenergyandlogistics?utm_source=qr&igsh=MWV6ZmRlb2YxaGdjdQ==" aria-label="Instagram" class="text-white"><i class="fab fa-instagram"></i></a>
                     </div>
