@@ -21,7 +21,7 @@
     <meta property="og:title" content="Bulk Diesel Supply in Nigeria | Reliable Fuel Delivery">
     <meta property="og:description"
         content="Fast, quality‑assured AGO delivery for businesses nationwide with safety and transparency.">
-    <meta property="og:image" content="https://www.jodiaenergies.com/img/banner/slide-01.jpg">
+    <meta property="og:image" content="https://www.jodiaenergies.com/img/banner/slide-04.jpg">
     <meta property="og:type" content="website">
     <meta property="og:url" content="https://www.jodiaenergies.com/diesel-supply">
 
@@ -29,7 +29,7 @@
     <meta name="twitter:title" content="Bulk Diesel Supply in Nigeria | Reliable Fuel Delivery">
     <meta name="twitter:description"
         content="Fast, quality‑assured AGO delivery for businesses nationwide with safety and transparency.">
-    <meta name="twitter:image" content="https://www.jodiaenergies.com/img/banner/slide-01.jpg">
+    <meta name="twitter:image" content="https://www.jodiaenergies.com/img/banner/slide-04.jpg">
 
     <script type="application/ld+json">
 {

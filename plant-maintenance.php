@@ -21,7 +21,7 @@
     <meta property="og:title" content="Plant Maintenance Services | Industrial Support Nigeria">
     <meta property="og:description"
         content="Proactive maintenance for uptime, safety and performance across industrial operations.">
-    <meta property="og:image" content="https://www.jodiaenergies.com/img/banner/slide-01.jpg">
+    <meta property="og:image" content="https://www.jodiaenergies.com/img/banner/slide-04.jpg">
     <meta property="og:type" content="website">
     <meta property="og:url" content="https://www.jodiaenergies.com/plant-maintenance">
 
@@ -29,7 +29,7 @@
     <meta name="twitter:title" content="Plant Maintenance Services | Industrial Support Nigeria">
     <meta name="twitter:description"
         content="Proactive maintenance for uptime, safety and performance across industrial operations.">
-    <meta name="twitter:image" content="https://www.jodiaenergies.com/img/banner/slide-01.jpg">
+    <meta name="twitter:image" content="https://www.jodiaenergies.com/img/banner/slide-04.jpg">
 
     <script type="application/ld+json">
 {

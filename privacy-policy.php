@@ -18,14 +18,14 @@
 
 	<meta property="og:title" content="Privacy Policy | Jodia Energies & Logistics">
 	<meta property="og:description" content="How we collect, use and protect personal information.">
-	<meta property="og:image" content="https://www.jodiaenergies.com/img/banner/slide-01.jpg">
+	<meta property="og:image" content="https://www.jodiaenergies.com/img/banner/slide-04.jpg">
 	<meta property="og:type" content="website">
 	<meta property="og:url" content="https://www.jodiaenergies.com/privacy-policy">
 
 	<meta name="twitter:card" content="summary_large_image">
 	<meta name="twitter:title" content="Privacy Policy | Jodia Energies & Logistics">
 	<meta name="twitter:description" content="How we collect, use and protect personal information.">
-	<meta name="twitter:image" content="https://www.jodiaenergies.com/img/banner/slide-01.jpg">
+	<meta name="twitter:image" content="https://www.jodiaenergies.com/img/banner/slide-04.jpg">
 
 	<script type="application/ld+json">
 {

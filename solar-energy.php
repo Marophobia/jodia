@@ -20,7 +20,7 @@
     <meta property="og:title" content="Solar Energy Solutions | Hybrid & Off‑Grid Systems">
     <meta property="og:description"
         content="Solar PV design, deployment and maintenance for resilient, cost‑efficient power.">
-    <meta property="og:image" content="https://www.jodiaenergies.com/img/banner/slide-01.jpg">
+    <meta property="og:image" content="https://www.jodiaenergies.com/img/banner/slide-04.jpg">
     <meta property="og:type" content="website">
     <meta property="og:url" content="https://www.jodiaenergies.com/solar-energy">
 
@@ -28,7 +28,7 @@
     <meta name="twitter:title" content="Solar Energy Solutions | Hybrid & Off‑Grid Systems">
     <meta name="twitter:description"
         content="Solar PV design, deployment and maintenance for resilient, cost‑efficient power.">
-    <meta name="twitter:image" content="https://www.jodiaenergies.com/img/banner/slide-01.jpg">
+    <meta name="twitter:image" content="https://www.jodiaenergies.com/img/banner/slide-04.jpg">
 
     <script type="application/ld+json">
 {

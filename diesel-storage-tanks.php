@@ -21,7 +21,7 @@
     <meta property="og:title" content="Diesel Storage Tank Installation | Safe Fuel Tanks">
     <meta property="og:description"
         content="Design and installation of compliant diesel storage tanks with testing and commissioning.">
-    <meta property="og:image" content="https://www.jodiaenergies.com/img/banner/slide-01.jpg">
+    <meta property="og:image" content="https://www.jodiaenergies.com/img/banner/slide-04.jpg">
     <meta property="og:type" content="website">
     <meta property="og:url" content="https://www.jodiaenergies.com/diesel-storage-tanks">
 
@@ -29,7 +29,7 @@
     <meta name="twitter:title" content="Diesel Storage Tank Installation | Safe Fuel Tanks">
     <meta name="twitter:description"
         content="Design and installation of compliant diesel storage tanks with testing and commissioning.">
-    <meta name="twitter:image" content="https://www.jodiaenergies.com/img/banner/slide-01.jpg">
+    <meta name="twitter:image" content="https://www.jodiaenergies.com/img/banner/slide-04.jpg">
 
     <script type="application/ld+json">
 {

@@ -15,14 +15,14 @@
 
 	<meta property="og:title" content="About Jodia Energies & Logistics | Nigerian Oil & Gas">
 	<meta property="og:description" content="Learn about our mission, leadership and standards powering Nigeria’s energy supply.">
-	<meta property="og:image" content="https://www.jodiaenergies.com/img/banner/slide-01.jpg">
+	<meta property="og:image" content="https://www.jodiaenergies.com/img/banner/slide-04.jpg">
 	<meta property="og:type" content="website">
 	<meta property="og:url" content="https://www.jodiaenergies.com/about">
 
 	<meta name="twitter:card" content="summary_large_image">
 	<meta name="twitter:title" content="About Jodia Energies & Logistics | Nigerian Oil & Gas">
 	<meta name="twitter:description" content="Learn about our mission, leadership and standards powering Nigeria’s energy supply.">
-	<meta name="twitter:image" content="https://www.jodiaenergies.com/img/banner/slide-01.jpg">
+	<meta name="twitter:image" content="https://www.jodiaenergies.com/img/banner/slide-04.jpg">
 
 	<script type="application/ld+json">
 {

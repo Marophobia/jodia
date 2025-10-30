@@ -18,14 +18,14 @@
 
     <meta property="og:title" content="Storage Tank Calibration | Accurate Measurement Nigeria">
     <meta property="og:description" content="Precise tank calibration for compliance, accuracy and inventory control.">
-    <meta property="og:image" content="https://www.jodiaenergies.com/img/banner/slide-01.jpg">
+    <meta property="og:image" content="https://www.jodiaenergies.com/img/banner/slide-04.jpg">
     <meta property="og:type" content="website">
     <meta property="og:url" content="https://www.jodiaenergies.com/tank-calibration">
 
     <meta name="twitter:card" content="summary_large_image">
     <meta name="twitter:title" content="Storage Tank Calibration | Accurate Measurement Nigeria">
     <meta name="twitter:description" content="Precise tank calibration for compliance, accuracy and inventory control.">
-    <meta name="twitter:image" content="https://www.jodiaenergies.com/img/banner/slide-01.jpg">
+    <meta name="twitter:image" content="https://www.jodiaenergies.com/img/banner/slide-04.jpg">
 
     <script type="application/ld+json">
 {

@@ -15,14 +15,14 @@
 
 	<meta property="og:title" content="Jodia Energies & Logistics | Reliable Diesel Supply Nigeria">
 	<meta property="og:description" content="Reliable diesel supply, energy logistics, maintenance, solar and calibration across Nigeria.">
-	<meta property="og:image" content="https://www.jodiaenergies.com/img/banner/slide-01.jpg">
+	<meta property="og:image" content="https://www.jodiaenergies.com/img/banner/slide-04.jpg">
 	<meta property="og:type" content="website">
 	<meta property="og:url" content="https://www.jodiaenergies.com/">
 
 	<meta name="twitter:card" content="summary_large_image">
 	<meta name="twitter:title" content="Jodia Energies & Logistics | Reliable Diesel Supply Nigeria">
 	<meta name="twitter:description" content="Reliable diesel supply, energy logistics, maintenance, solar and calibration across Nigeria.">
-	<meta name="twitter:image" content="https://www.jodiaenergies.com/img/banner/slide-01.jpg">
+	<meta name="twitter:image" content="https://www.jodiaenergies.com/img/banner/slide-04.jpg">
 
 	<script type="application/ld+json">
 {

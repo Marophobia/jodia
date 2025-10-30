@@ -19,7 +19,7 @@
     <meta property="og:title" content="Logistics & Haulage | Safe Fuel Transport in Nigeria">
     <meta property="og:description"
         content="Secure, compliant transportation for fuel and equipment with national coverage.">
-    <meta property="og:image" content="https://www.jodiaenergies.com/img/banner/slide-01.jpg">
+    <meta property="og:image" content="https://www.jodiaenergies.com/img/banner/slide-04.jpg">
     <meta property="og:type" content="website">
     <meta property="og:url" content="https://www.jodiaenergies.com/logistics-haulage">
 
@@ -27,7 +27,7 @@
     <meta name="twitter:title" content="Logistics & Haulage | Safe Fuel Transport in Nigeria">
     <meta name="twitter:description"
         content="Secure, compliant transportation for fuel and equipment with national coverage.">
-    <meta name="twitter:image" content="https://www.jodiaenergies.com/img/banner/slide-01.jpg">
+    <meta name="twitter:image" content="https://www.jodiaenergies.com/img/banner/slide-04.jpg">
 
     <script type="application/ld+json">
 {

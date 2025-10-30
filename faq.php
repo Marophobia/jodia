@@ -18,14 +18,14 @@
 
 	<meta property="og:title" content="FAQs | Jodia Energies & Logistics">
 	<meta property="og:description" content="Answers to common questions about services, delivery and safety.">
-	<meta property="og:image" content="https://www.jodiaenergies.com/img/banner/slide-01.jpg">
+	<meta property="og:image" content="https://www.jodiaenergies.com/img/banner/slide-04.jpg">
 	<meta property="og:type" content="website">
 	<meta property="og:url" content="https://www.jodiaenergies.com/faq">
 
 	<meta name="twitter:card" content="summary_large_image">
 	<meta name="twitter:title" content="FAQs | Jodia Energies & Logistics">
 	<meta name="twitter:description" content="Answers to common questions about services, delivery and safety.">
-	<meta name="twitter:image" content="https://www.jodiaenergies.com/img/banner/slide-01.jpg">
+	<meta name="twitter:image" content="https://www.jodiaenergies.com/img/banner/slide-04.jpg">
 
 	<script type="application/ld+json">
 {

@@ -18,14 +18,14 @@
 
 	<meta property="og:title" content="Terms & Conditions | Jodia Energies & Logistics">
 	<meta property="og:description" content="Terms governing use of our website and services.">
-	<meta property="og:image" content="https://www.jodiaenergies.com/img/banner/slide-01.jpg">
+	<meta property="og:image" content="https://www.jodiaenergies.com/img/banner/slide-04.jpg">
 	<meta property="og:type" content="website">
 	<meta property="og:url" content="https://www.jodiaenergies.com/terms-conditions">
 
 	<meta name="twitter:card" content="summary_large_image">
 	<meta name="twitter:title" content="Terms & Conditions | Jodia Energies & Logistics">
 	<meta name="twitter:description" content="Terms governing use of our website and services.">
-	<meta name="twitter:image" content="https://www.jodiaenergies.com/img/banner/slide-01.jpg">
+	<meta name="twitter:image" content="https://www.jodiaenergies.com/img/banner/slide-04.jpg">
 
 	<script type="application/ld+json">
 {

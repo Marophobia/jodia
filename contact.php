@@ -14,14 +14,14 @@
 
 	<meta property="og:title" content="Contact Jodia Energies & Logistics | Get a Quote">
 	<meta property="og:description" content="Speak with our team for quotes, partnerships or support—fast responses guaranteed.">
-	<meta property="og:image" content="https://www.jodiaenergies.com/img/banner/slide-01.jpg">
+	<meta property="og:image" content="https://www.jodiaenergies.com/img/banner/slide-04.jpg">
 	<meta property="og:type" content="website">
 	<meta property="og:url" content="https://www.jodiaenergies.com/contact">
 
 	<meta name="twitter:card" content="summary_large_image">
 	<meta name="twitter:title" content="Contact Jodia Energies & Logistics | Get a Quote">
 	<meta name="twitter:description" content="Speak with our team for quotes, partnerships or support—fast responses guaranteed.">
-	<meta name="twitter:image" content="https://www.jodiaenergies.com/img/banner/slide-01.jpg">
+	<meta name="twitter:image" content="https://www.jodiaenergies.com/img/banner/slide-04.jpg">
 
 	<script type="application/ld+json">
 {

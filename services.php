@@ -18,14 +18,14 @@
 
 	<meta property="og:title" content="Energy & Logistics Services | Diesel, Haulage, Maintenance">
 	<meta property="og:description" content="End‑to‑end services including diesel supply, haulage, maintenance, calibration and solar solutions.">
-	<meta property="og:image" content="https://www.jodiaenergies.com/img/banner/slide-01.jpg">
+	<meta property="og:image" content="https://www.jodiaenergies.com/img/banner/slide-04.jpg">
 	<meta property="og:type" content="website">
 	<meta property="og:url" content="https://www.jodiaenergies.com/services">
 
 	<meta name="twitter:card" content="summary_large_image">
 	<meta name="twitter:title" content="Energy & Logistics Services | Diesel, Haulage, Maintenance">
 	<meta name="twitter:description" content="End‑to‑end services including diesel supply, haulage, maintenance, calibration and solar solutions.">
-	<meta name="twitter:image" content="https://www.jodiaenergies.com/img/banner/slide-01.jpg">
+	<meta name="twitter:image" content="https://www.jodiaenergies.com/img/banner/slide-04.jpg">
 
 	<script type="application/ld+json">
 {
