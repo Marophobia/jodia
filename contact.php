@@ -221,7 +221,7 @@
                                             </div>
                                             <div class="contacts-title">
                                                 <h5 class="text-white font-weight-600 display-28">Call Anytime</h5>
-                                                <h6 class="text-white font-weight-400">+234 8108776151</h6>
+                                                <h6 class="text-white font-weight-400">+234 810 877 6151</h6>
                                             </div>
                                         </div>
                                     </div>
@@ -232,7 +232,7 @@
                                             </div>
                                             <div class="contacts-title">
                                                 <h5 class="text-white font-weight-600 display-28"> Locations</h5>
-                                                <h6 class="text-white font-weight-400">No 2 John Street, Off Benin Warri ByPass, Benin City Edo State, Nigeria</h6>
+                                                <h6 class="text-white font-weight-400">2, John Street, Off Benin Warri ByPass, Benin City Edo State, Nigeria</h6>
                                             </div>
                                         </div>
                                     </div>

@@ -130,7 +130,7 @@
                                 <h2 class="display-5 lh-1 font-weight-800 mb-0">Powering Growth Across Nigeria</h2>
                             </div>
                             <p class="mb-1-6 mb-sm-1-9">
-                                Jodia Energies &amp; Logistics Ltd is a growing Nigerian downstream oil and gas company
+                                Jodia Energies &amp; Logistics Ltd is a Nigerian downstream oil and gas company
                                 committed to
                                 providing reliable, sustainable, and cost-effective energy and logistics solutions. From
                                 diesel supply to

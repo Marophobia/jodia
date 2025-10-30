@@ -3,42 +3,45 @@
 
 <head>
 
-	<!-- metas -->
-	<meta charset="utf-8">
-	<meta name="author" content="Jodia Energies & Logistics Ltd">
-	<meta http-equiv="X-UA-Compatible" content="IE=edge">
-	<meta name="viewport" content="width=device-width, initial-scale=1.0">
-	<title>About Jodia Energies & Logistics | Nigerian Oil & Gas</title>
-	<link rel="canonical" href="https://www.jodiaenergies.com/about" />
-	<meta name="description" content="Learn about our mission, leadership and standards powering Nigeria’s energy supply.">
-	<meta name="keywords" content="Nigerian oil and gas company, about Jodia Energies, leadership, corporate governance, energy logistics Nigeria">
+    <!-- metas -->
+    <meta charset="utf-8">
+    <meta name="author" content="Jodia Energies & Logistics Ltd">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>About Jodia Energies & Logistics | Nigerian Oil & Gas</title>
+    <link rel="canonical" href="https://www.jodiaenergies.com/about" />
+    <meta name="description" content="Learn about our mission, leadership and standards powering Nigeria’s energy supply.">
+    <meta name="keywords" content="Nigerian oil and gas company, about Jodia Energies, leadership, corporate governance, energy logistics Nigeria">
 
-	<meta property="og:title" content="About Jodia Energies & Logistics | Nigerian Oil & Gas">
-	<meta property="og:description" content="Learn about our mission, leadership and standards powering Nigeria’s energy supply.">
-	<meta property="og:image" content="https://www.jodiaenergies.com/img/banner/slide-04.jpg">
-	<meta property="og:type" content="website">
-	<meta property="og:url" content="https://www.jodiaenergies.com/about">
+    <meta property="og:title" content="About Jodia Energies & Logistics | Nigerian Oil & Gas">
+    <meta property="og:description" content="Learn about our mission, leadership and standards powering Nigeria’s energy supply.">
+    <meta property="og:image" content="https://www.jodiaenergies.com/img/banner/slide-04.jpg">
+    <meta property="og:type" content="website">
+    <meta property="og:url" content="https://www.jodiaenergies.com/about">
 
-	<meta name="twitter:card" content="summary_large_image">
-	<meta name="twitter:title" content="About Jodia Energies & Logistics | Nigerian Oil & Gas">
-	<meta name="twitter:description" content="Learn about our mission, leadership and standards powering Nigeria’s energy supply.">
-	<meta name="twitter:image" content="https://www.jodiaenergies.com/img/banner/slide-04.jpg">
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:title" content="About Jodia Energies & Logistics | Nigerian Oil & Gas">
+    <meta name="twitter:description" content="Learn about our mission, leadership and standards powering Nigeria’s energy supply.">
+    <meta name="twitter:image" content="https://www.jodiaenergies.com/img/banner/slide-04.jpg">
 
-	<script type="application/ld+json">
-{
- "@context": "https://schema.org",
- "@type": "AboutPage",
- "name": "About Jodia Energies & Logistics",
- "url": "https://www.jodiaenergies.com/about",
- "isPartOf": { "@type": "WebSite", "url": "https://www.jodiaenergies.com/" },
- "mainEntity": {
-   "@type": "Organization",
-   "name": "Jodia Energies & Logistics Ltd",
-   "url": "https://www.jodiaenergies.com/",
-   "logo": "https://www.jodiaenergies.com/img/logos/logo.png"
- }
-}
-	</script>
+    <script type="application/ld+json">
+        {
+            "@context": "https://schema.org",
+            "@type": "AboutPage",
+            "name": "About Jodia Energies & Logistics",
+            "url": "https://www.jodiaenergies.com/about",
+            "isPartOf": {
+                "@type": "WebSite",
+                "url": "https://www.jodiaenergies.com/"
+            },
+            "mainEntity": {
+                "@type": "Organization",
+                "name": "Jodia Energies & Logistics Ltd",
+                "url": "https://www.jodiaenergies.com/",
+                "logo": "https://www.jodiaenergies.com/img/logos/logo.png"
+            }
+        }
+    </script>
 
     <!-- favicon -->
     <link rel="shortcut icon" href="img/logos/favicon.png">
@@ -138,6 +141,47 @@
             </div>
         </section>
 
+        <!-- VISION, MISSION & VALUES
+        ================================================== -->
+        <section class="pt-0 pb-0">
+            <div class="container">
+                <div class="row mt-n2-9">
+                    <div class="col-lg-4 mt-2-9 wow fadeIn" data-wow-delay="150ms">
+                        <div class="pe-lg-3 pe-xl-5">
+                            <div class="section-title-01 mb-1-6">
+                                <span class="text-primary font-weight-600 text-uppercase letter-spacing-1 position-relative ps-2">Mission</span>
+                                <h3 class="h4 mb-0">To provide sustainable, efficient and cost‑effective energy and logistics services.</h3>
+                            </div>
+                            <p class="mb-0">We deliver dependable solutions that power growth for businesses, industries and communities nationwide.</p>
+                        </div>
+                    </div>
+                    <div class="col-lg-4 mt-2-9 wow fadeIn" data-wow-delay="100ms">
+                        <div class="pe-lg-3 pe-xl-5">
+                            <div class="section-title-01 mb-1-6">
+                                <span class="text-primary font-weight-600 text-uppercase letter-spacing-1 position-relative ps-2">Vision</span>
+                                <h3 class="h4 mb-0">To be the leading Energy and Logistics company.</h3>
+                            </div>
+                            <p class="mb-0">We aspire to set the benchmark for reliability, safety and performance across Nigeria’s energy and logistics landscape.</p>
+                        </div>
+                    </div>
+                    <div class="col-lg-4 mt-2-9 wow fadeIn" data-wow-delay="200ms">
+                        <div class="pe-lg-3 pe-xl-5">
+                            <div class="section-title-01 mb-1-6">
+                                <span class="text-primary font-weight-600 text-uppercase letter-spacing-1 position-relative ps-2">Our Values</span>
+                                <h3 class="h4 mb-0">How we work—every day</h3>
+                            </div>
+                            <ul class="list-unstyled mb-0 display-28">
+                                <li class="mb-1">Transparency</li>
+                                <li class="mb-1">Integrity</li>
+                                <li class="mb-1">Honesty</li>
+                                <li class="mb-1">Teamwork</li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+
         <!-- EXTRA
         ================================================== -->
         <!-- <section class="extra-style02 bg-img cover-background pb-0 pt-24 overflow-visible" data-overlay-dark="3"
@@ -214,7 +258,7 @@
                                     <div id="collapseOne" class="collapse show" aria-labelledby="headingOne"
                                         data-bs-parent="#accordion">
                                         <div class="card-body">
-                                            We are a growing Nigerian downstream oil and gas company, committed to
+                                            We are a Nigerian downstream oil and gas company, committed to
                                             providing dependable energy and logistics solutions that drive businesses,
                                             industries, and communities across Nigeria.
                                         </div>

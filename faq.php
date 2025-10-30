@@ -126,7 +126,7 @@
                                     <div id="collapseTwo" class="collapse" aria-labelledby="headingTwo"
                                         data-bs-parent="#accordion">
                                         <div class="card-body">
-                                            We are a growing Nigerian downstream oil and gas company, committed to
+                                            We are a Nigerian downstream oil and gas company, committed to
                                             providing dependable energy and logistics solutions that drive businesses,
                                             industries, and communities across Nigeria.
                                         </div>
