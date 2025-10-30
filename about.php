@@ -1,20 +1,44 @@
 <!DOCTYPE html>
 <html lang="en">
 
-
-<!-- Mirrored from metaryhtml.websitelayout.net/about.php by HTTrack Website Copier/3.x [XR&CO'2014], Tue, 28 Oct 2025 11:41:27 GMT -->
-
 <head>
 
-    <!-- metas -->
-    <meta charset="utf-8">
-    <meta name="author" content="Website Layout">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta name="description" content="Jodia Energies & Logistics | Energy, Logistics & Industrial Solutions.">
+	<!-- metas -->
+	<meta charset="utf-8">
+	<meta name="author" content="Jodia Energies & Logistics Ltd">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<title>About Jodia Energies & Logistics | Nigerian Oil & Gas</title>
+	<link rel="canonical" href="https://www.jodiaenergies.com/about" />
+	<meta name="description" content="Learn about our mission, leadership and standards powering Nigeria’s energy supply.">
+	<meta name="keywords" content="Nigerian oil and gas company, about Jodia Energies, leadership, corporate governance, energy logistics Nigeria">
 
-    <!-- title  -->
-    <title>Jodia Energies & Logistics | Energy, Logistics & Industrial Solutions</title>
+	<meta property="og:title" content="About Jodia Energies & Logistics | Nigerian Oil & Gas">
+	<meta property="og:description" content="Learn about our mission, leadership and standards powering Nigeria’s energy supply.">
+	<meta property="og:image" content="https://www.jodiaenergies.com/img/banner/slide-01.jpg">
+	<meta property="og:type" content="website">
+	<meta property="og:url" content="https://www.jodiaenergies.com/about">
+
+	<meta name="twitter:card" content="summary_large_image">
+	<meta name="twitter:title" content="About Jodia Energies & Logistics | Nigerian Oil & Gas">
+	<meta name="twitter:description" content="Learn about our mission, leadership and standards powering Nigeria’s energy supply.">
+	<meta name="twitter:image" content="https://www.jodiaenergies.com/img/banner/slide-01.jpg">
+
+	<script type="application/ld+json">
+{
+ "@context": "https://schema.org",
+ "@type": "AboutPage",
+ "name": "About Jodia Energies & Logistics",
+ "url": "https://www.jodiaenergies.com/about",
+ "isPartOf": { "@type": "WebSite", "url": "https://www.jodiaenergies.com/" },
+ "mainEntity": {
+   "@type": "Organization",
+   "name": "Jodia Energies & Logistics Ltd",
+   "url": "https://www.jodiaenergies.com/",
+   "logo": "https://www.jodiaenergies.com/img/logos/logo.png"
+ }
+}
+	</script>
 
     <!-- favicon -->
     <link rel="shortcut icon" href="img/logos/favicon.png">
@@ -68,7 +92,7 @@
 
         <!-- ABOUT US
         ================================================== -->
-        <section class="about-style-02 pb-lg-20">
+        <section class="about-style-02 pb-lg-10">
             <div class="container">
                 <div class="row align-items-center justify-content-center mt-n1-9 mt-md-n6">
                     <div class="col-lg-6 mt-1-9 mt-md-6 order-2 order-lg-1 wow fadeIn" data-wow-delay="100ms">
@@ -80,16 +104,19 @@
                                 <h2 class="display-5 lh-1 font-weight-800 mb-0">About Jodia Energies & Logistics Ltd:
                                     Powering Nigeria's Future</h2>
                             </div>
-                            <p class="mb-1-9 display-28">Jodia Energies & Logistics Ltd stands at the forefront of
-                                Nigeria's energy and logistics landscape, committed to providing reliable, sustainable,
-                                and cost-effective solutions that drive progress nationwide. With a deep understanding
-                                of the local market and an unwavering dedication to excellence, we empower businesses,
-                                industries, and communities to achieve their full potential.</p>
+                            <p class="mb-1-9 display-28">
+                                Founded in 2024, Jodia Energies & Logistics Ltd is a dynamic downstream oil and gas company committed to delivering excellence across the energy and logistics value chain. We provide diesel supply, storage installation, tank calibration, logistics services, and solar energy solutions — tailored to meet the needs of businesses and industries nationwide.
+                            </p>
+                            <p class="mb-1-9 display-28">
+                                Our mission is simple: to provide reliable, sustainable, and cost-effective energy and logistics solutions that drive growth for businesses and industries across Nigeria.
+                            </p>
+                            <p class="mb-1-9 display-28">
+                                At Jodia, we believe energy should never be a bottleneck to progress. That’s why we combine operational efficiency, technical expertise, and strong customer relationships to ensure every client enjoys seamless service delivery — every time.
+                            </p>
                             <div class="d-flex align-items-center">
-                                <a href="#" class="btn-style1 me-4"><span><span class="btn-small">Read
-                                            More</span></span></a>
-                                <a href="#" class="display-27 text-dark font-weight-700"><i
-                                        class="fa-solid fa-phone-volume text-primary me-2"></i>1 800 222 000</a>
+                                <a href="contact.php" class="btn-style1 me-4"><span><span class="btn-small">Contact Us</span></span></a>
+                                <a href="tel:+2348108776151" class="display-27 text-dark font-weight-700"><i
+                                        class="fa-solid fa-phone-volume text-primary me-2"></i>+234 810 877 6151</a>
                             </div>
                         </div>
                     </div>
@@ -251,129 +278,10 @@
                     <span
                         class="text-primary font-weight-600 text-uppercase letter-spacing-1 position-relative ps-2">Our
                         Team</span>
-                    <h2 class="display-5 lh-1 font-weight-800 mb-0 w-md-80 w-lg-65 w-xl-55 w-xxl-50 mx-auto">We have
-                        gathered the best group to work with you</h2>
+                    <h2 class="display-5 lh-1 font-weight-800 mb-0 w-md-80 w-lg-65 w-xl-55 w-xxl-50 mx-auto">Meet the
+                        leaders driving Jodia Energies forward</h2>
                 </div>
-                <div class="row mt-n1-9">
-                    <div class="col-md-6 col-xl-3 mt-1-9 wow fadeIn" data-wow-delay="100ms">
-                        <div class="card card-style07 border-0">
-                            <div class="team-before-hover">
-                                <div class="team-img rounded-top">
-                                    <img src="img/team/team-01.jpg" alt="..." class="rounded-top">
-                                </div>
-                            </div>
-                            <div class="card-body position-relative">
-                                <div class="team-social">
-                                    <div class="icon-share">
-                                        <i class="fa fa-share-alt"></i>
-                                        <div class="icons-social">
-                                            <ul>
-                                                <li><a href="https://www.facebook.com/" target="_blank"><i
-                                                            class="ti-facebook"></i></a></li>
-                                                <li><a href="https://twitter.com/" target="_blank"><i
-                                                            class="ti-twitter-alt"></i></a></li>
-                                                <li><a href="https://www.instagram.com/" target="_blank"><i
-                                                            class="ti-instagram"></i></a></li>
-                                            </ul>
-                                        </div>
-                                    </div>
-                                </div>
-                                <h3 class="h5 mb-1"><a href="team-details.php">Senay Ambessa</a></h3>
-                                <span>CO-Founder</span>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-md-6 col-xl-3 mt-1-9 wow fadeIn" data-wow-delay="150ms">
-                        <div class="card card-style07 border-0">
-                            <div class="team-before-hover">
-                                <div class="team-img rounded-top">
-                                    <img src="img/team/team-02.jpg" alt="..." class="rounded-top">
-                                </div>
-                            </div>
-                            <div class="card-body position-relative">
-                                <div class="team-social">
-                                    <div class="side-icons">
-                                        <div class="icon-share">
-                                            <i class="fa fa-share-alt"></i>
-                                            <div class="icons-social">
-                                                <ul>
-                                                    <li><a href="https://www.facebook.com/" target="_blank"><i
-                                                                class="ti-facebook"></i></a></li>
-                                                    <li><a href="https://twitter.com/" target="_blank"><i
-                                                                class="ti-twitter-alt"></i></a></li>
-                                                    <li><a href="https://www.instagram.com/" target="_blank"><i
-                                                                class="ti-instagram"></i></a></li>
-                                                </ul>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                                <h3 class="h5 mb-1"><a href="team-details.php">Amina Abdullah</a></h3>
-                                <span>Head of Production</span>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-md-6 col-xl-3 mt-1-9 wow fadeIn" data-wow-delay="200ms">
-                        <div class="card card-style07 border-0">
-                            <div class="team-before-hover">
-                                <div class="team-img rounded-top">
-                                    <img src="img/team/team-03.jpg" alt="..." class="rounded-top">
-                                </div>
-                            </div>
-                            <div class="card-body position-relative">
-                                <div class="team-social">
-                                    <div class="side-icons">
-                                        <div class="icon-share">
-                                            <i class="fa fa-share-alt"></i>
-                                            <div class="icons-social">
-                                                <ul>
-                                                    <li><a href="https://www.facebook.com/" target="_blank"><i
-                                                                class="ti-facebook"></i></a></li>
-                                                    <li><a href="https://twitter.com/" target="_blank"><i
-                                                                class="ti-twitter-alt"></i></a></li>
-                                                    <li><a href="https://www.instagram.com/" target="_blank"><i
-                                                                class="ti-instagram"></i></a></li>
-                                                </ul>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                                <h3 class="h5 mb-1"><a href="team-details.php">Girmay Hamid</a></h3>
-                                <span>Contractor</span>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-md-6 col-xl-3 mt-1-9 wow fadeIn" data-wow-delay="250ms">
-                        <div class="card card-style07 border-0">
-                            <div class="team-before-hover">
-                                <div class="team-img rounded-top">
-                                    <img src="img/team/team-04.jpg" alt="..." class="rounded-top">
-                                </div>
-                            </div>
-                            <div class="card-body position-relative">
-                                <div class="team-social">
-                                    <div class="side-icons">
-                                        <div class="icon-share">
-                                            <i class="fa fa-share-alt"></i>
-                                            <div class="icons-social">
-                                                <ul>
-                                                    <li><a href="https://www.facebook.com/" target="_blank"><i
-                                                                class="ti-facebook"></i></a></li>
-                                                    <li><a href="https://twitter.com/" target="_blank"><i
-                                                                class="ti-twitter-alt"></i></a></li>
-                                                    <li><a href="https://www.instagram.com/" target="_blank"><i
-                                                                class="ti-instagram"></i></a></li>
-                                                </ul>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                                <h3 class="h5 mb-1"><a href="team-details.php">Yohannes Efrem</a></h3>
-                                <span>Sr. Manager</span>
-                            </div>
-                        </div>
-                    </div>
-                </div>
+                <?php include "includes/team.php" ?>
             </div>
         </section>
 

@@ -1,3 +1,6 @@
+<?php
+http_response_code(404);
+?>
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -7,29 +10,28 @@
 	<meta name="author" content="Jodia Energies & Logistics Ltd">
 	<meta http-equiv="X-UA-Compatible" content="IE=edge">
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
-	<title>Our Leadership & Team | Jodia Energies & Logistics</title>
-	<link rel="canonical" href="https://www.jodiaenergies.com/team" />
-	<meta name="description" content="Meet the experts driving safe, reliable energy and logistics across Nigeria.">
-	<meta name="keywords" content="leadership team, company executives, energy experts, logistics professionals">
+	<title>Page Not Found | Jodia Energies & Logistics</title>
+	<link rel="canonical" href="https://www.jodiaenergies.com/404-page" />
+	<meta name="description" content="The page you’re looking for can’t be found—return to the homepage.">
+	<meta name="keywords" content="404, page not found, broken link">
 
-	<meta property="og:title" content="Our Leadership & Team | Jodia Energies & Logistics">
-	<meta property="og:description" content="Meet the experts driving safe, reliable energy and logistics across Nigeria.">
-	<meta property="og:image" content="https://www.jodiaenergies.com/img/banner/slide-01.jpg">
+	<meta property="og:title" content="Page Not Found | Jodia Energies & Logistics">
+	<meta property="og:description" content="The page you’re looking for can’t be found—return to the homepage.">
+	<meta property="og:image" content="https://www.jodiaenergies.com/img/content/error-page.png">
 	<meta property="og:type" content="website">
-	<meta property="og:url" content="https://www.jodiaenergies.com/team">
+	<meta property="og:url" content="https://www.jodiaenergies.com/404-page">
 
 	<meta name="twitter:card" content="summary_large_image">
-	<meta name="twitter:title" content="Our Leadership & Team | Jodia Energies & Logistics">
-	<meta name="twitter:description" content="Meet the experts driving safe, reliable energy and logistics across Nigeria.">
-	<meta name="twitter:image" content="https://www.jodiaenergies.com/img/banner/slide-01.jpg">
+	<meta name="twitter:title" content="Page Not Found | Jodia Energies & Logistics">
+	<meta name="twitter:description" content="The page you’re looking for can’t be found—return to the homepage.">
+	<meta name="twitter:image" content="https://www.jodiaenergies.com/img/content/error-page.png">
 
 	<script type="application/ld+json">
 {
  "@context": "https://schema.org",
- "@type": "AboutPage",
- "name": "Our Leadership & Team",
- "url": "https://www.jodiaenergies.com/team",
- "isPartOf": { "@type": "WebSite", "url": "https://www.jodiaenergies.com/" }
+ "@type": "WebPage",
+ "name": "404 Page",
+ "url": "https://www.jodiaenergies.com/404-page"
 }
 	</script>
 
@@ -52,7 +54,7 @@
     <link rel="stylesheet" href="css/scrollbar.css">
 
     <!-- theme core css -->
-    <link href="css/styles.css" rel="stylesheet">
+    <link href="css/styles.css" rel="stylesheet">    
 
 </head>
 
@@ -66,39 +68,22 @@
     ================================================== -->
     <div class="main-wrapper">
 
-        <!-- HEADER
+        <!-- ERROR PAGE
         ================================================== -->
-        <?php include "includes/header.php" ?>
-
-
-        <!-- PAGE TITLE
-        ================================================== -->
-        <section class="page-title-section top-position1 bg-img cover-background left-overlay-secondary"
-            data-overlay-dark="85" data-background="img/banner/page-title-01.jpg">
-            <div class="container">
-                <h1>Our Team</h1>
-                <ul>
-                    <li><a href="index.php">Home</a></li>
-                    <li>Our Team</li>
-                </ul>
+        <section class="p-0 bg-img bg-secondary cover-background" data-background="img/content/error-page.png">
+            <div class="container d-flex flex-column position-relative z-index-9">
+                <div class="row align-items-center min-vh-100 text-center justify-content-center">
+                    <div class="col-lg-8 col-xl-6 wow fadIn" data-wow-delay="100ms">
+                        <div class="bg-white px-1-9 px-sm-6 pt-1-6 pb-2-6 py-sm-7 rounded">
+                            <h1 class="error-text">404</h1>
+                            <h2 class="mb-1-9">Oops! This Page is Not Found.</h2>
+                            <a href="index.php" class="btn-style1"><span>Home Page</span></a>
+                        </div>
+                    </div>
+                </div>
             </div>
         </section>
-
-        <!-- OUR TEAM
-        ================================================== -->
-        <section>
-            <div class="container">
-              <?php include "includes/team.php" ?>
-            </div>
-        </section>
-
-        <!-- FOOTER
-        ================================================== -->
-        <?php include "includes/footer.php" ?>
-
-
     </div>
-
 
     <!-- SCROLL TO TOP
     ================================================== -->
@@ -136,8 +121,4 @@
     <!-- all js include end -->
 
 </body>
-
-
-<!-- Mirrored from metaryhtml.websitelayout.net/team.html by HTTrack Website Copier/3.x [XR&CO'2014], Tue, 28 Oct 2025 11:41:27 GMT -->
-
 </html>

@@ -6,15 +6,39 @@
 
 <head>
 
-    <!-- metas -->
-    <meta charset="utf-8">
-    <meta name="author" content="Website Layout">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta name="description" content="Jodia Energies & Logistics | Energy, Logistics & Industrial Solutions.">
+	<!-- metas -->
+	<meta charset="utf-8">
+	<meta name="author" content="Jodia Energies & Logistics Ltd">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<title>Logistics & Haulage | Safe Fuel Transport in Nigeria</title>
+	<link rel="canonical" href="https://www.jodiaenergies.com/logistics-haulage" />
+	<meta name="description" content="Secure, compliant transportation for fuel and equipment with national coverage.">
+	<meta name="keywords" content="logistics Nigeria, fuel haulage, tanker transport, energy logistics company">
 
-    <!-- title  -->
-    <title>Jodia Energies & Logistics | Energy, Logistics & Industrial Solutions</title>
+	<meta property="og:title" content="Logistics & Haulage | Safe Fuel Transport in Nigeria">
+	<meta property="og:description" content="Secure, compliant transportation for fuel and equipment with national coverage.">
+	<meta property="og:image" content="https://www.jodiaenergies.com/img/banner/slide-01.jpg">
+	<meta property="og:type" content="website">
+	<meta property="og:url" content="https://www.jodiaenergies.com/logistics-haulage">
+
+	<meta name="twitter:card" content="summary_large_image">
+	<meta name="twitter:title" content="Logistics & Haulage | Safe Fuel Transport in Nigeria">
+	<meta name="twitter:description" content="Secure, compliant transportation for fuel and equipment with national coverage.">
+	<meta name="twitter:image" content="https://www.jodiaenergies.com/img/banner/slide-01.jpg">
+
+	<script type="application/ld+json">
+{
+ "@context": "https://schema.org",
+ "@type": "Service",
+ "name": "Logistics & Haulage",
+ "areaServed": "NG",
+ "provider": { "@type": "Organization", "name": "Jodia Energies & Logistics Ltd" },
+ "url": "https://www.jodiaenergies.com/logistics-haulage",
+ "serviceType": "Haulage and Transport",
+ "description": "Secure, compliant fuel and equipment transport nationwide."
+}
+	</script>
     <!-- favicon -->
     <link rel="shortcut icon" href="img/logos/favicon.png">
     <link rel="apple-touch-icon" href="img/logos/apple-touch-icon-57x57.png">
@@ -104,10 +128,10 @@
                                     <h4 class="mb-3 text-white">How Can We Help?</h4>
                                     <ul class="text-center list-unstyled mb-0">
                                         <li class="text-white mb-2"><i class="fa fa-phone small text-white me-2"></i><a
-                                                href="#" class="text-white">(+44)123 456 789</a></li>
+                                                href="#" class="text-white">+234 810 877 6151</a></li>
                                         <li class="text-white"><i
                                                 class="fa fa-envelope-open small text-white me-2"></i><a href="#"
-                                                class="text-white">addyour@emailhere</a></li>
+                                                class="text-white">info@jodiaenergies.com</a></li>
                                     </ul>
                                 </div>
                             </div>

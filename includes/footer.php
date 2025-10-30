@@ -11,6 +11,29 @@
                 </div>
             </div>
             <div class="col-md-6 col-lg-4 mt-2-9">
+                <div class="ps-lg-5">
+                    <h3 class="text-white h4 mb-2-4">Contact Details</h3>
+                    <ul class="list-unstyled mb-3">
+                        <li class="d-flex align-items-start mb-3 text-white opacity8">
+                            <i class="fa-solid fa-location-dot me-3 mt-1"></i>
+                            <span>No 2 John Street, Off Benin Warri ByPass, Benin City, Edo State, Nigeria</span>
+                        </li>
+                        <li class="d-flex align-items-start mb-3 text-white opacity8">
+                            <i class="fa-solid fa-phone me-3 mt-1"></i>
+                            <a href="tel:+2348108776151" class="text-white">+234 810 877 6151</a>
+                        </li>
+                        <li class="d-flex align-items-start mb-3 text-white opacity8">
+                            <i class="fa-solid fa-envelope me-3 mt-1"></i>
+                            <a href="mailto:info@jodiaenergies.com" class="text-white">info@jodiaenergies.com</a>
+                        </li>
+                    </ul>
+                    <div class="d-flex gap-3">
+                        <a href="https://www.facebook.com/profile.php?id=61579582250996&mibextid=wwXIfr&mibextid=wwXIfr" aria-label="Facebook" class="text-white"><i class="fab fa-facebook-f"></i></a>
+                        <a href="https://www.instagram.com/jodiaenergyandlogistics?utm_source=qr&igsh=MWV6ZmRlb2YxaGdjdQ==" aria-label="Instagram" class="text-white"><i class="fab fa-instagram"></i></a>
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-6 col-lg-4 mt-2-9">
                 <div class="ps-md-2-6 ps-xl-7">
                     <h3 class="text-white h4 mb-2-4">Quick Links</h3>
                     <div class="row">
@@ -32,44 +55,7 @@
                     </div>
                 </div>
             </div>
-            <div class="col-md-6 col-lg-4 mt-2-9">
-                <div class="ps-lg-5">
-                    <h3 class="text-white h4 mb-2-4">Newsletter</h3>
-                    <p class="text-white mb-1-6 display-28 opacity8">Subscribe to our newsletter to receive updates on
-                        the latest news!</p>
-                    <form class="quform newsletter-form" action="quform/newsletter-two.php" method="post"
-                        enctype="multipart/form-data" onclick="">
 
-                        <div class="quform-elements">
-                            <div class="row">
-
-                                <!-- Begin Text input element -->
-                                <div class="col-md-12">
-                                    <div class="quform-element mb-0">
-                                        <div class="quform-input">
-                                            <input class="form-control" id="email_address" type="text"
-                                                name="email_address" placeholder="Subscribe with us">
-                                        </div>
-                                    </div>
-                                </div>
-                                <!-- End Text input element -->
-
-                                <!-- Begin Submit button -->
-                                <div class="col-md-12">
-                                    <div class="quform-submit-inner">
-                                        <button class="btn btn-white text-white m-0" type="submit"><i
-                                                class="fas fa-paper-plane"></i></button>
-                                    </div>
-                                    <div class="quform-loading-wrap"><span class="quform-loading"></span></div>
-                                </div>
-                                <!-- End Submit button -->
-                            </div>
-
-                        </div>
-
-                    </form>
-                </div>
-            </div>
         </div>
     </div>
     <div class="container">

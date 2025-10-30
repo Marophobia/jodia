@@ -6,15 +6,35 @@
 
 <head>
 
-    <!-- metas -->
-    <meta charset="utf-8">
-    <meta name="author" content="Website Layout">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta name="description" content="Jodia Energies & Logistics | Energy, Logistics & Industrial Solutions.">
+	<!-- metas -->
+	<meta charset="utf-8">
+	<meta name="author" content="Jodia Energies & Logistics Ltd">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<title>Privacy Policy | Jodia Energies & Logistics</title>
+	<link rel="canonical" href="https://www.jodiaenergies.com/privacy-policy" />
+	<meta name="description" content="How we collect, use and protect personal information.">
+	<meta name="keywords" content="privacy policy, data protection Nigeria, GDPR, personal data">
 
-    <!-- title  -->
-    <title>Jodia Energies & Logistics | Energy, Logistics & Industrial Solutions</title>
+	<meta property="og:title" content="Privacy Policy | Jodia Energies & Logistics">
+	<meta property="og:description" content="How we collect, use and protect personal information.">
+	<meta property="og:image" content="https://www.jodiaenergies.com/img/banner/slide-01.jpg">
+	<meta property="og:type" content="website">
+	<meta property="og:url" content="https://www.jodiaenergies.com/privacy-policy">
+
+	<meta name="twitter:card" content="summary_large_image">
+	<meta name="twitter:title" content="Privacy Policy | Jodia Energies & Logistics">
+	<meta name="twitter:description" content="How we collect, use and protect personal information.">
+	<meta name="twitter:image" content="https://www.jodiaenergies.com/img/banner/slide-01.jpg">
+
+	<script type="application/ld+json">
+{
+ "@context": "https://schema.org",
+ "@type": "PrivacyPolicy",
+ "name": "Privacy Policy",
+ "url": "https://www.jodiaenergies.com/privacy-policy"
+}
+	</script>
     <!-- favicon -->
     <link rel="shortcut icon" href="img/logos/favicon.png">
     <link rel="apple-touch-icon" href="img/logos/apple-touch-icon-57x57.png">

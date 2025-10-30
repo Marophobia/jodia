@@ -47,7 +47,7 @@
                             <!-- start attribute navigation -->
                             <div class="attr-nav align-items-xl-center ms-xl-auto main-font">
                                 <ul>
-                                    <li class="search"><a href="#"><i class="fas fa-search"></i></a></li>
+                                    <!-- <li class="search"><a href="#"><i class="fas fa-search"></i></a></li> -->
                                     <li class="d-none d-xl-inline-block"><a href="contact.php"
                                             class="btn-style1 white-hover small"><span>Reach Out</span></a></li>
                                 </ul>

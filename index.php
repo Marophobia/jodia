@@ -3,17 +3,56 @@
 
 <head>
 
-    <!-- metas -->
-    <meta charset="utf-8">
-    <meta name="author" content="Website Layout">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta name="keywords" content="Industry & Factory HTML Template">
-    <meta name="description"
-        content="Metary is a modern, responsive HTML template designed for industrial, factory, and power‑technology businesses. Featuring ready‑made pages like Services, Portfolio, Blog, Team, Pricing, and Contact.">
+	<!-- metas -->
+	<meta charset="utf-8">
+	<meta name="author" content="Jodia Energies & Logistics Ltd">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<title>Jodia Energies & Logistics | Reliable Diesel Supply Nigeria</title>
+	<link rel="canonical" href="https://www.jodiaenergies.com/" />
+	<meta name="description" content="Reliable diesel supply, energy logistics, maintenance, solar and calibration across Nigeria.">
+	<meta name="keywords" content="diesel supply Nigeria, energy logistics company, oil and gas solutions, fuel delivery, reliable fuel supply, downstream oil and gas">
 
-    <!-- title  -->
-    <title>Jodia Energies and Logistics Ltd - </title>
+	<meta property="og:title" content="Jodia Energies & Logistics | Reliable Diesel Supply Nigeria">
+	<meta property="og:description" content="Reliable diesel supply, energy logistics, maintenance, solar and calibration across Nigeria.">
+	<meta property="og:image" content="https://www.jodiaenergies.com/img/banner/slide-01.jpg">
+	<meta property="og:type" content="website">
+	<meta property="og:url" content="https://www.jodiaenergies.com/">
+
+	<meta name="twitter:card" content="summary_large_image">
+	<meta name="twitter:title" content="Jodia Energies & Logistics | Reliable Diesel Supply Nigeria">
+	<meta name="twitter:description" content="Reliable diesel supply, energy logistics, maintenance, solar and calibration across Nigeria.">
+	<meta name="twitter:image" content="https://www.jodiaenergies.com/img/banner/slide-01.jpg">
+
+	<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@graph": [{
+    "@type": "Organization",
+    "name": "Jodia Energies & Logistics Ltd",
+    "url": "https://www.jodiaenergies.com/",
+    "logo": "https://www.jodiaenergies.com/img/logos/logo.png",
+    "sameAs": [],
+    "contactPoint": [{
+      "@type": "ContactPoint",
+      "contactType": "Customer Service",
+      "email": "info@jodiaenergies.com",
+      "telephone": "+234-000-000-0000",
+      "areaServed": "NG",
+      "availableLanguage": ["en"]
+    }]
+  },{
+    "@type": "WebSite",
+    "url": "https://www.jodiaenergies.com/",
+    "name": "Jodia Energies & Logistics",
+    "potentialAction": {
+      "@type": "SearchAction",
+      "target": "https://www.jodiaenergies.com/search/?q={query}",
+      "query-input": "required name=query"
+    }
+  }]
+}
+	</script>
 
     <!-- favicon -->
     <link rel="shortcut icon" href="img/logos/favicon.png">
@@ -383,34 +422,7 @@
                     <h2 class="display-5 lh-1 font-weight-800 mb-0 w-md-80 w-lg-65 w-xl-55 w-xxl-50 mx-auto">Meet the
                         leaders driving Jodia Energies forward</h2>
                 </div>
-                <div class="row mt-n1-9">
-                    <div class="col-md-6 col-xl-6 mt-1-9 wow fadeInUp" data-wow-delay="100ms">
-                        <div class="card card-style07 border-0">
-                            <div class="team-before-hover">
-                                <div class="team-img rounded-top">
-                                    <img src="img/team/team-01.jpg" alt="..." class="rounded-top">
-                                </div>
-                            </div>
-                            <div class="card-body position-relative">
-                                <h3 class="h5 mb-1"><a href="#">Odia Timothy Ukpebor</a></h3>
-                                <span>Managing Director</span>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-md-6 col-xl-6 mt-1-9 wow fadeInUp" data-wow-delay="100ms">
-                        <div class="card card-style07 border-0">
-                            <div class="team-before-hover">
-                                <div class="team-img rounded-top">
-                                    <img src="img/team/team-01.jpg" alt="..." class="rounded-top">
-                                </div>
-                            </div>
-                            <div class="card-body position-relative">
-                                <h3 class="h5 mb-1"><a href="#">Harrison Omoregbe</a></h3>
-                                <span> Business Development Expartriate/ General Manager</span>
-                            </div>
-                        </div>
-                    </div>
-                </div>
+                <?php include "includes/team.php" ?>
             </div>
         </section>
 

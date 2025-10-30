@@ -6,15 +6,42 @@
 
 <head>
 
-    <!-- metas -->
-    <meta charset="utf-8">
-    <meta name="author" content="Website Layout">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta name="description" content="Jodia Energies & Logistics | Energy, Logistics & Industrial Solutions.">
+	<!-- metas -->
+	<meta charset="utf-8">
+	<meta name="author" content="Jodia Energies & Logistics Ltd">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<title>Energy & Logistics Services | Diesel, Haulage, Maintenance</title>
+	<link rel="canonical" href="https://www.jodiaenergies.com/services" />
+	<meta name="description" content="End‑to‑end services including diesel supply, haulage, maintenance, calibration and solar solutions.">
+	<meta name="keywords" content="energy services Nigeria, diesel supply, logistics and haulage, plant maintenance, tank calibration, solar energy solutions">
 
-    <!-- title  -->
-    <title>Jodia Energies & Logistics | Energy, Logistics & Industrial Solutions</title>
+	<meta property="og:title" content="Energy & Logistics Services | Diesel, Haulage, Maintenance">
+	<meta property="og:description" content="End‑to‑end services including diesel supply, haulage, maintenance, calibration and solar solutions.">
+	<meta property="og:image" content="https://www.jodiaenergies.com/img/banner/slide-01.jpg">
+	<meta property="og:type" content="website">
+	<meta property="og:url" content="https://www.jodiaenergies.com/services">
+
+	<meta name="twitter:card" content="summary_large_image">
+	<meta name="twitter:title" content="Energy & Logistics Services | Diesel, Haulage, Maintenance">
+	<meta name="twitter:description" content="End‑to‑end services including diesel supply, haulage, maintenance, calibration and solar solutions.">
+	<meta name="twitter:image" content="https://www.jodiaenergies.com/img/banner/slide-01.jpg">
+
+	<script type="application/ld+json">
+{
+ "@context": "https://schema.org",
+ "@type": "ItemList",
+ "url": "https://www.jodiaenergies.com/services",
+ "itemListElement": [
+   { "@type": "Service", "name": "Diesel Supply", "url": "https://www.jodiaenergies.com/diesel-supply" },
+   { "@type": "Service", "name": "Logistics & Haulage", "url": "https://www.jodiaenergies.com/logistics-haulage" },
+   { "@type": "Service", "name": "Plant Maintenance", "url": "https://www.jodiaenergies.com/plant-maintenance" },
+   { "@type": "Service", "name": "Diesel Storage Tanks", "url": "https://www.jodiaenergies.com/diesel-storage-tanks" },
+   { "@type": "Service", "name": "Tank Calibration", "url": "https://www.jodiaenergies.com/tank-calibration" },
+   { "@type": "Service", "name": "Solar Energy", "url": "https://www.jodiaenergies.com/solar-energy" }
+ ]
+}
+	</script>
 
     <!-- favicon -->
     <link rel="shortcut icon" href="img/logos/favicon.png">

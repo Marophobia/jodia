@@ -6,16 +6,39 @@
 
 <head>
 
-    <!-- metas -->
-    <meta charset="utf-8">
-    <meta name="author" content="Website Layout">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta name="keywords" content="Industry & Factory HTML Template">
-    <meta name="description" content="Jodia Energies & Logistics | Energy, Logistics & Industrial Solutions.">
+	<!-- metas -->
+	<meta charset="utf-8">
+	<meta name="author" content="Jodia Energies & Logistics Ltd">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<title>Bulk Diesel Supply in Nigeria | Reliable Fuel Delivery</title>
+	<link rel="canonical" href="https://www.jodiaenergies.com/diesel-supply" />
+	<meta name="description" content="Fast, quality‑assured AGO delivery for businesses nationwide with safety and transparency.">
+	<meta name="keywords" content="bulk diesel Nigeria, AGO delivery, reliable fuel supply, diesel supply company, commercial diesel">
 
-    <!-- title  -->
-    <title>Jodia Energies & Logistics | Energy, Logistics & Industrial Solutions</title>
+	<meta property="og:title" content="Bulk Diesel Supply in Nigeria | Reliable Fuel Delivery">
+	<meta property="og:description" content="Fast, quality‑assured AGO delivery for businesses nationwide with safety and transparency.">
+	<meta property="og:image" content="https://www.jodiaenergies.com/img/banner/slide-01.jpg">
+	<meta property="og:type" content="website">
+	<meta property="og:url" content="https://www.jodiaenergies.com/diesel-supply">
+
+	<meta name="twitter:card" content="summary_large_image">
+	<meta name="twitter:title" content="Bulk Diesel Supply in Nigeria | Reliable Fuel Delivery">
+	<meta name="twitter:description" content="Fast, quality‑assured AGO delivery for businesses nationwide with safety and transparency.">
+	<meta name="twitter:image" content="https://www.jodiaenergies.com/img/banner/slide-01.jpg">
+
+	<script type="application/ld+json">
+{
+ "@context": "https://schema.org",
+ "@type": "Service",
+ "name": "Bulk Diesel Supply",
+ "areaServed": "NG",
+ "provider": { "@type": "Organization", "name": "Jodia Energies & Logistics Ltd" },
+ "url": "https://www.jodiaenergies.com/diesel-supply",
+ "serviceType": "Diesel Delivery",
+ "description": "Quality-assured AGO supply and delivery for businesses across Nigeria."
+}
+	</script>
     <!-- favicon -->
     <link rel="shortcut icon" href="img/logos/favicon.png">
     <link rel="apple-touch-icon" href="img/logos/apple-touch-icon-57x57.png">
@@ -105,10 +128,10 @@
                                     <h4 class="mb-3 text-white">How Can We Help?</h4>
                                     <ul class="text-center list-unstyled mb-0">
                                         <li class="text-white mb-2"><i class="fa fa-phone small text-white me-2"></i><a
-                                                href="#" class="text-white">(+44)123 456 789</a></li>
+                                                href="#" class="text-white">+234 810 877 6151</a></li>
                                         <li class="text-white"><i
                                                 class="fa fa-envelope-open small text-white me-2"></i><a href="#"
-                                                class="text-white">addyour@emailhere</a></li>
+                                                class="text-white">info@jodiaenergies.com</a></li>
                                     </ul>
                                 </div>
                             </div>
