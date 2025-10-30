@@ -105,7 +105,16 @@
                     <div class="row mt-n2-9">
                         <div class="col-lg-7 mt-2-9">
                             <h2 class="text-secondary mb-4 h1">Write Us Something</h2>
-                            <form class="contact quform" action="quform/contact.php" method="post"
+                            <?php if (isset($_GET['success']) && $_GET['success'] === '1'): ?>
+                            <div class="alert alert-success" role="alert">
+                                Thank you! Your message has been sent successfully.
+                            </div>
+                            <?php elseif (isset($_GET['success']) && $_GET['success'] === '0'): ?>
+                            <div class="alert alert-danger" role="alert">
+                                Please fill in all required fields correctly and try again.
+                            </div>
+                            <?php endif; ?>
+                            <form class="contact quform" action="mail.php" method="post"
                                 enctype="multipart/form-data" onclick="">
                                 <div class="quform-elements">
                                     <div class="row">

@@ -7,7 +7,7 @@
                                 </div>
                             </div>
                             <div class="card-body position-relative">
-                                <h3 class="h5 mb-1"><a href="#">Odia Timothy Ukpebor</a></h3>
+                                <h3 class="h5 mb-1"><a href="odia.php">Odia Timothy Ukpebor</a></h3>
                                 <span>Managing Director</span>
                             </div>
                         </div>
@@ -20,7 +20,7 @@
                                 </div>
                             </div>
                             <div class="card-body position-relative">
-                                <h3 class="h5 mb-1"><a href="#">Harrison Omoregbe</a></h3>
+                                <h3 class="h5 mb-1"><a href="harrison.php">Harrison Omoregbe</a></h3>
                                 <span> Business Development Expartriate/ General Manager</span>
                             </div>
                         </div>

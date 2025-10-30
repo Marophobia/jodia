@@ -446,21 +446,6 @@
                             <img src="img/clients/client-03.png" alt="...">
                         </div>
                     </div>
-                    <div class="text-center">
-                        <div class="client-img">
-                            <img src="img/clients/client-04.png" alt="...">
-                        </div>
-                    </div>
-                    <div class="text-center">
-                        <div class="client-img">
-                            <img src="img/clients/client-05.png" alt="...">
-                        </div>
-                    </div>
-                    <div class="text-center">
-                        <div class="client-img">
-                            <img src="img/clients/client-06.png" alt="...">
-                        </div>
-                    </div>
                 </div>
             </div>
         </section>
