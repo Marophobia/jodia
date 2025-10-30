@@ -6,28 +6,28 @@
 
 <head>
 
-	<!-- metas -->
-	<meta charset="utf-8">
-	<meta name="author" content="Jodia Energies & Logistics Ltd">
-	<meta http-equiv="X-UA-Compatible" content="IE=edge">
-	<meta name="viewport" content="width=device-width, initial-scale=1.0">
-	<title>Storage Tank Calibration | Accurate Measurement Nigeria</title>
-	<link rel="canonical" href="https://www.jodiaenergies.com/tank-calibration" />
-	<meta name="description" content="Precise tank calibration for compliance, accuracy and inventory control.">
-	<meta name="keywords" content="tank calibration Nigeria, storage tank measurement, metrology, calibration services">
+    <!-- metas -->
+    <meta charset="utf-8">
+    <meta name="author" content="Jodia Energies & Logistics Ltd">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Storage Tank Calibration | Accurate Measurement Nigeria</title>
+    <link rel="canonical" href="https://www.jodiaenergies.com/tank-calibration" />
+    <meta name="description" content="Precise tank calibration for compliance, accuracy and inventory control.">
+    <meta name="keywords" content="tank calibration Nigeria, storage tank measurement, metrology, calibration services">
 
-	<meta property="og:title" content="Storage Tank Calibration | Accurate Measurement Nigeria">
-	<meta property="og:description" content="Precise tank calibration for compliance, accuracy and inventory control.">
-	<meta property="og:image" content="https://www.jodiaenergies.com/img/banner/slide-01.jpg">
-	<meta property="og:type" content="website">
-	<meta property="og:url" content="https://www.jodiaenergies.com/tank-calibration">
+    <meta property="og:title" content="Storage Tank Calibration | Accurate Measurement Nigeria">
+    <meta property="og:description" content="Precise tank calibration for compliance, accuracy and inventory control.">
+    <meta property="og:image" content="https://www.jodiaenergies.com/img/banner/slide-01.jpg">
+    <meta property="og:type" content="website">
+    <meta property="og:url" content="https://www.jodiaenergies.com/tank-calibration">
 
-	<meta name="twitter:card" content="summary_large_image">
-	<meta name="twitter:title" content="Storage Tank Calibration | Accurate Measurement Nigeria">
-	<meta name="twitter:description" content="Precise tank calibration for compliance, accuracy and inventory control.">
-	<meta name="twitter:image" content="https://www.jodiaenergies.com/img/banner/slide-01.jpg">
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:title" content="Storage Tank Calibration | Accurate Measurement Nigeria">
+    <meta name="twitter:description" content="Precise tank calibration for compliance, accuracy and inventory control.">
+    <meta name="twitter:image" content="https://www.jodiaenergies.com/img/banner/slide-01.jpg">
 
-	<script type="application/ld+json">
+    <script type="application/ld+json">
 {
  "@context": "https://schema.org",
  "@type": "Service",
@@ -38,7 +38,7 @@
  "serviceType": "Calibration",
  "description": "Accurate tank calibration for compliance and inventory management."
 }
-	</script>
+    </script>
     <!-- favicon -->
     <link rel="shortcut icon" href="img/logos/favicon.png">
     <link rel="apple-touch-icon" href="img/logos/apple-touch-icon-57x57.png">
@@ -145,41 +145,14 @@
                             </div>
                             <div class="mb-5 wow fadeIn" data-wow-delay="200ms">
                                 <h2 class="mb-3">Precise Tank Calibration Services</h2>
-                                <p class="mb-0">Jodia Energies & Logistics Ltd provides **accurate and certified tank
-                                    calibration services** for both truck-mounted and underground storage tanks. This
+                                <p class="mb-0">Jodia Energies & Logistics Ltd provides accurate and certified tank
+                                    calibration services for both truck-mounted and underground storage tanks. This
                                     crucial service ensures precise measurement of fuel volumes, critical for inventory
                                     management, preventing losses, and ensuring fair trade practices. Our meticulous
                                     calibration processes adhere to international standards, providing verifiable data
                                     and instilling confidence in every transaction and stocktake.</p>
                             </div>
-                            <div class="row mb-1-9 mt-n4">
-                                <div class="col-xl-6 mt-4 wow fadeIn" data-wow-delay="200ms">
-                                    <div class="d-sm-flex align-items-center bg-light rounded">
-                                        <div class="flex-shrink-0 d-none d-sm-block">
-                                            <img src="img/service/service-details-07.jpg"
-                                                alt="Specialized calibration equipment" class="rounded-start">
-                                        </div>
-                                        <div class="flex-grow-1 p-4">
-                                            <h4 class="h5">Advanced Measurement Techniques</h4>
-                                            <p class="mb-0">Utilizing state-of-the-art equipment for highly accurate
-                                                volume measurements.</p>
-                                        </div>
-                                    </div>
-                                </div>
-                                <div class="col-xl-6 mt-4 wow fadeIn" data-wow-delay="200ms">
-                                    <div class="d-sm-flex align-items-center bg-light rounded">
-                                        <div class="flex-shrink-0 d-none d-sm-block">
-                                            <img src="img/service/service-details-08.jpg"
-                                                alt="Compliance with industry standards" class="rounded-start">
-                                        </div>
-                                        <div class="flex-grow-1 p-4">
-                                            <h4 class="h5">Regulatory Compliance & Certification</h4>
-                                            <p class="mb-0">Ensuring all calibrations meet local and international
-                                                industry standards.</p>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
+
                             <p class="mb-2-3 wow fadeIn" data-wow-delay="200ms">Our expert technicians are trained in
                                 various calibration methodologies, including volumetric and strapping methods, applied
                                 to a wide range of tank shapes and sizes. We generate detailed calibration charts and

@@ -6,28 +6,32 @@
 
 <head>
 
-	<!-- metas -->
-	<meta charset="utf-8">
-	<meta name="author" content="Jodia Energies & Logistics Ltd">
-	<meta http-equiv="X-UA-Compatible" content="IE=edge">
-	<meta name="viewport" content="width=device-width, initial-scale=1.0">
-	<title>Plant Maintenance Services | Industrial Support Nigeria</title>
-	<link rel="canonical" href="https://www.jodiaenergies.com/plant-maintenance" />
-	<meta name="description" content="Proactive maintenance for uptime, safety and performance across industrial operations.">
-	<meta name="keywords" content="plant maintenance Nigeria, industrial maintenance, preventive maintenance, reliability engineering">
+    <!-- metas -->
+    <meta charset="utf-8">
+    <meta name="author" content="Jodia Energies & Logistics Ltd">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Plant Maintenance Services | Industrial Support Nigeria</title>
+    <link rel="canonical" href="https://www.jodiaenergies.com/plant-maintenance" />
+    <meta name="description"
+        content="Proactive maintenance for uptime, safety and performance across industrial operations.">
+    <meta name="keywords"
+        content="plant maintenance Nigeria, industrial maintenance, preventive maintenance, reliability engineering">
 
-	<meta property="og:title" content="Plant Maintenance Services | Industrial Support Nigeria">
-	<meta property="og:description" content="Proactive maintenance for uptime, safety and performance across industrial operations.">
-	<meta property="og:image" content="https://www.jodiaenergies.com/img/banner/slide-01.jpg">
-	<meta property="og:type" content="website">
-	<meta property="og:url" content="https://www.jodiaenergies.com/plant-maintenance">
+    <meta property="og:title" content="Plant Maintenance Services | Industrial Support Nigeria">
+    <meta property="og:description"
+        content="Proactive maintenance for uptime, safety and performance across industrial operations.">
+    <meta property="og:image" content="https://www.jodiaenergies.com/img/banner/slide-01.jpg">
+    <meta property="og:type" content="website">
+    <meta property="og:url" content="https://www.jodiaenergies.com/plant-maintenance">
 
-	<meta name="twitter:card" content="summary_large_image">
-	<meta name="twitter:title" content="Plant Maintenance Services | Industrial Support Nigeria">
-	<meta name="twitter:description" content="Proactive maintenance for uptime, safety and performance across industrial operations.">
-	<meta name="twitter:image" content="https://www.jodiaenergies.com/img/banner/slide-01.jpg">
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:title" content="Plant Maintenance Services | Industrial Support Nigeria">
+    <meta name="twitter:description"
+        content="Proactive maintenance for uptime, safety and performance across industrial operations.">
+    <meta name="twitter:image" content="https://www.jodiaenergies.com/img/banner/slide-01.jpg">
 
-	<script type="application/ld+json">
+    <script type="application/ld+json">
 {
  "@context": "https://schema.org",
  "@type": "Service",
@@ -38,7 +42,7 @@
  "serviceType": "Industrial Maintenance",
  "description": "Proactive maintenance to improve uptime, safety and performance."
 }
-	</script>
+    </script>
     <!-- favicon -->
     <link rel="shortcut icon" href="img/logos/favicon.png">
     <link rel="apple-touch-icon" href="img/logos/apple-touch-icon-57x57.png">
@@ -152,34 +156,7 @@
                                     ensuring all equipment operates within required safety and efficiency parameters.
                                 </p>
                             </div>
-                            <div class="row mb-1-9 mt-n4">
-                                <div class="col-xl-6 mt-4 wow fadeIn" data-wow-delay="200ms">
-                                    <div class="d-sm-flex align-items-center bg-light rounded">
-                                        <div class="flex-shrink-0 d-none d-sm-block">
-                                            <img src="img/service/service-details-07.jpg"
-                                                alt="Preventive maintenance checklist" class="rounded-start">
-                                        </div>
-                                        <div class="flex-grow-1 p-4">
-                                            <h4 class="h5">Preventive Maintenance Schedules</h4>
-                                            <p class="mb-0">Customized planning to preemptively identify and mitigate
-                                                potential equipment failure.</p>
-                                        </div>
-                                    </div>
-                                </div>
-                                <div class="col-xl-6 mt-4 wow fadeIn" data-wow-delay="200ms">
-                                    <div class="d-sm-flex align-items-center bg-light rounded">
-                                        <div class="flex-shrink-0 d-none d-sm-block">
-                                            <img src="img/service/service-details-08.jpg"
-                                                alt="Technical inspection and diagnosis" class="rounded-start">
-                                        </div>
-                                        <div class="flex-grow-1 p-4">
-                                            <h4 class="h5">Expert Diagnosis & Repair</h4>
-                                            <p class="mb-0">Skilled engineers using advanced tools for accurate
-                                                diagnosis and prompt repairs.</p>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
+
                             <p class="mb-2-3 wow fadeIn" data-wow-delay="200ms">Our maintenance protocols are tailored
                                 to meet the rigorous demands of the oil, gas, and energy sectors. This includes detailed
                                 inspections of mechanical, electrical, and structural components, as well as crucial

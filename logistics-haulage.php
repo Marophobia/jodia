@@ -6,28 +6,30 @@
 
 <head>
 
-	<!-- metas -->
-	<meta charset="utf-8">
-	<meta name="author" content="Jodia Energies & Logistics Ltd">
-	<meta http-equiv="X-UA-Compatible" content="IE=edge">
-	<meta name="viewport" content="width=device-width, initial-scale=1.0">
-	<title>Logistics & Haulage | Safe Fuel Transport in Nigeria</title>
-	<link rel="canonical" href="https://www.jodiaenergies.com/logistics-haulage" />
-	<meta name="description" content="Secure, compliant transportation for fuel and equipment with national coverage.">
-	<meta name="keywords" content="logistics Nigeria, fuel haulage, tanker transport, energy logistics company">
+    <!-- metas -->
+    <meta charset="utf-8">
+    <meta name="author" content="Jodia Energies & Logistics Ltd">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Logistics & Haulage | Safe Fuel Transport in Nigeria</title>
+    <link rel="canonical" href="https://www.jodiaenergies.com/logistics-haulage" />
+    <meta name="description" content="Secure, compliant transportation for fuel and equipment with national coverage.">
+    <meta name="keywords" content="logistics Nigeria, fuel haulage, tanker transport, energy logistics company">
 
-	<meta property="og:title" content="Logistics & Haulage | Safe Fuel Transport in Nigeria">
-	<meta property="og:description" content="Secure, compliant transportation for fuel and equipment with national coverage.">
-	<meta property="og:image" content="https://www.jodiaenergies.com/img/banner/slide-01.jpg">
-	<meta property="og:type" content="website">
-	<meta property="og:url" content="https://www.jodiaenergies.com/logistics-haulage">
+    <meta property="og:title" content="Logistics & Haulage | Safe Fuel Transport in Nigeria">
+    <meta property="og:description"
+        content="Secure, compliant transportation for fuel and equipment with national coverage.">
+    <meta property="og:image" content="https://www.jodiaenergies.com/img/banner/slide-01.jpg">
+    <meta property="og:type" content="website">
+    <meta property="og:url" content="https://www.jodiaenergies.com/logistics-haulage">
 
-	<meta name="twitter:card" content="summary_large_image">
-	<meta name="twitter:title" content="Logistics & Haulage | Safe Fuel Transport in Nigeria">
-	<meta name="twitter:description" content="Secure, compliant transportation for fuel and equipment with national coverage.">
-	<meta name="twitter:image" content="https://www.jodiaenergies.com/img/banner/slide-01.jpg">
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:title" content="Logistics & Haulage | Safe Fuel Transport in Nigeria">
+    <meta name="twitter:description"
+        content="Secure, compliant transportation for fuel and equipment with national coverage.">
+    <meta name="twitter:image" content="https://www.jodiaenergies.com/img/banner/slide-01.jpg">
 
-	<script type="application/ld+json">
+    <script type="application/ld+json">
 {
  "@context": "https://schema.org",
  "@type": "Service",
@@ -38,7 +40,7 @@
  "serviceType": "Haulage and Transport",
  "description": "Secure, compliant fuel and equipment transport nationwide."
 }
-	</script>
+    </script>
     <!-- favicon -->
     <link rel="shortcut icon" href="img/logos/favicon.png">
     <link rel="apple-touch-icon" href="img/logos/apple-touch-icon-57x57.png">
@@ -152,34 +154,7 @@
                                     operational complexities, and ensure your goods reach their destination efficiently,
                                     every time.</p>
                             </div>
-                            <div class="row mb-1-9 mt-n4">
-                                <div class="col-xl-6 mt-4 wow fadeIn" data-wow-delay="200ms">
-                                    <div class="d-sm-flex align-items-center bg-light rounded">
-                                        <div class="flex-shrink-0 d-none d-sm-block">
-                                            <img src="img/service/service-details-07.jpg"
-                                                alt="Fleet tracking technology" class="rounded-start">
-                                        </div>
-                                        <div class="flex-grow-1 p-4">
-                                            <h4 class="h5">Advanced Fleet Management</h4>
-                                            <p class="mb-0">Utilizing modern vehicles and tracking technology for
-                                                optimal route efficiency.</p>
-                                        </div>
-                                    </div>
-                                </div>
-                                <div class="col-xl-6 mt-4 wow fadeIn" data-wow-delay="200ms">
-                                    <div class="d-sm-flex align-items-center bg-light rounded">
-                                        <div class="flex-shrink-0 d-none d-sm-block">
-                                            <img src="img/service/service-details-08.jpg" alt="Supply chain planning"
-                                                class="rounded-start">
-                                        </div>
-                                        <div class="flex-grow-1 p-4">
-                                            <h4 class="h5">Strategic Route Planning</h4>
-                                            <p class="mb-0">Expert planning to ensure timely deliveries and mitigate
-                                                logistical challenges.</p>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
+
                             <p class="mb-2-3 wow fadeIn" data-wow-delay="200ms">Our extensive network and experienced
                                 team are equipped to handle diverse logistical demands, from the last mile delivery in
                                 challenging terrains to inter-state transportation of large consignments. We adhere

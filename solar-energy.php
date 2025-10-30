@@ -6,28 +6,31 @@
 
 <head>
 
-	<!-- metas -->
-	<meta charset="utf-8">
-	<meta name="author" content="Jodia Energies & Logistics Ltd">
-	<meta http-equiv="X-UA-Compatible" content="IE=edge">
-	<meta name="viewport" content="width=device-width, initial-scale=1.0">
-	<title>Solar Energy Solutions | Hybrid & Off‑Grid Systems</title>
-	<link rel="canonical" href="https://www.jodiaenergies.com/solar-energy" />
-	<meta name="description" content="Solar PV design, deployment and maintenance for resilient, cost‑efficient power.">
-	<meta name="keywords" content="solar energy Nigeria, hybrid solar, off‑grid systems, renewable energy, PV maintenance">
+    <!-- metas -->
+    <meta charset="utf-8">
+    <meta name="author" content="Jodia Energies & Logistics Ltd">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Solar Energy Solutions | Hybrid & Off‑Grid Systems</title>
+    <link rel="canonical" href="https://www.jodiaenergies.com/solar-energy" />
+    <meta name="description" content="Solar PV design, deployment and maintenance for resilient, cost‑efficient power.">
+    <meta name="keywords"
+        content="solar energy Nigeria, hybrid solar, off‑grid systems, renewable energy, PV maintenance">
 
-	<meta property="og:title" content="Solar Energy Solutions | Hybrid & Off‑Grid Systems">
-	<meta property="og:description" content="Solar PV design, deployment and maintenance for resilient, cost‑efficient power.">
-	<meta property="og:image" content="https://www.jodiaenergies.com/img/banner/slide-01.jpg">
-	<meta property="og:type" content="website">
-	<meta property="og:url" content="https://www.jodiaenergies.com/solar-energy">
+    <meta property="og:title" content="Solar Energy Solutions | Hybrid & Off‑Grid Systems">
+    <meta property="og:description"
+        content="Solar PV design, deployment and maintenance for resilient, cost‑efficient power.">
+    <meta property="og:image" content="https://www.jodiaenergies.com/img/banner/slide-01.jpg">
+    <meta property="og:type" content="website">
+    <meta property="og:url" content="https://www.jodiaenergies.com/solar-energy">
 
-	<meta name="twitter:card" content="summary_large_image">
-	<meta name="twitter:title" content="Solar Energy Solutions | Hybrid & Off‑Grid Systems">
-	<meta name="twitter:description" content="Solar PV design, deployment and maintenance for resilient, cost‑efficient power.">
-	<meta name="twitter:image" content="https://www.jodiaenergies.com/img/banner/slide-01.jpg">
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:title" content="Solar Energy Solutions | Hybrid & Off‑Grid Systems">
+    <meta name="twitter:description"
+        content="Solar PV design, deployment and maintenance for resilient, cost‑efficient power.">
+    <meta name="twitter:image" content="https://www.jodiaenergies.com/img/banner/slide-01.jpg">
 
-	<script type="application/ld+json">
+    <script type="application/ld+json">
 {
  "@context": "https://schema.org",
  "@type": "Service",
@@ -38,7 +41,7 @@
  "serviceType": "Solar PV",
  "description": "Hybrid and off-grid solar design, deployment and maintenance."
 }
-	</script>
+    </script>
     <!-- favicon -->
     <link rel="shortcut icon" href="img/logos/favicon.png">
     <link rel="apple-touch-icon" href="img/logos/apple-touch-icon-57x57.png">
@@ -146,41 +149,14 @@
                             <div class="mb-5 wow fadeIn" data-wow-delay="200ms">
                                 <h2 class="mb-3">Sustainable Solar Energy Solutions</h2>
                                 <p class="mb-0">Jodia Energies & Logistics Ltd is at the forefront of providing
-                                    **sustainable solar energy solutions** tailored for residential, commercial, and
+                                    sustainable solar energy solutions tailored for residential, commercial, and
                                     industrial applications across Nigeria. Recognizing the need for reliable and
                                     cost-effective power, we design, install, and maintain high-efficiency solar power
                                     systems that harness the abundant sunlight to deliver consistent energy. Our
                                     solutions aim to reduce your reliance on traditional energy sources, cut down
                                     operational costs, and contribute to a greener environment.</p>
                             </div>
-                            <div class="row mb-1-9 mt-n4">
-                                <div class="col-xl-6 mt-4 wow fadeIn" data-wow-delay="200ms">
-                                    <div class="d-sm-flex align-items-center bg-light rounded">
-                                        <div class="flex-shrink-0 d-none d-sm-block">
-                                            <img src="img/service/service-details-07.jpg" alt="Solar panel array"
-                                                class="rounded-start">
-                                        </div>
-                                        <div class="flex-grow-1 p-4">
-                                            <h4 class="h5">Customized Solar System Design</h4>
-                                            <p class="mb-0">Tailored solutions to meet specific energy demands and
-                                                budget constraints.</p>
-                                        </div>
-                                    </div>
-                                </div>
-                                <div class="col-xl-6 mt-4 wow fadeIn" data-wow-delay="200ms">
-                                    <div class="d-sm-flex align-items-center bg-light rounded">
-                                        <div class="flex-shrink-0 d-none d-sm-block">
-                                            <img src="img/service/service-details-08.jpg"
-                                                alt="Battery storage solutions" class="rounded-start">
-                                        </div>
-                                        <div class="flex-grow-1 p-4">
-                                            <h4 class="h5">Robust Installation & Maintenance</h4>
-                                            <p class="mb-0">Professional installation and ongoing support for optimal
-                                                performance and longevity.</p>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
+
                             <p class="mb-2-3 wow fadeIn" data-wow-delay="200ms">Our comprehensive solar offerings
                                 include grid-tied, off-grid, and hybrid systems, integrated with high-quality solar
                                 panels, inverters, and battery storage solutions. We conduct thorough energy audits and

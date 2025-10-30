@@ -6,28 +6,32 @@
 
 <head>
 
-	<!-- metas -->
-	<meta charset="utf-8">
-	<meta name="author" content="Jodia Energies & Logistics Ltd">
-	<meta http-equiv="X-UA-Compatible" content="IE=edge">
-	<meta name="viewport" content="width=device-width, initial-scale=1.0">
-	<title>Bulk Diesel Supply in Nigeria | Reliable Fuel Delivery</title>
-	<link rel="canonical" href="https://www.jodiaenergies.com/diesel-supply" />
-	<meta name="description" content="Fast, quality‑assured AGO delivery for businesses nationwide with safety and transparency.">
-	<meta name="keywords" content="bulk diesel Nigeria, AGO delivery, reliable fuel supply, diesel supply company, commercial diesel">
+    <!-- metas -->
+    <meta charset="utf-8">
+    <meta name="author" content="Jodia Energies & Logistics Ltd">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Bulk Diesel Supply in Nigeria | Reliable Fuel Delivery</title>
+    <link rel="canonical" href="https://www.jodiaenergies.com/diesel-supply" />
+    <meta name="description"
+        content="Fast, quality‑assured AGO delivery for businesses nationwide with safety and transparency.">
+    <meta name="keywords"
+        content="bulk diesel Nigeria, AGO delivery, reliable fuel supply, diesel supply company, commercial diesel">
 
-	<meta property="og:title" content="Bulk Diesel Supply in Nigeria | Reliable Fuel Delivery">
-	<meta property="og:description" content="Fast, quality‑assured AGO delivery for businesses nationwide with safety and transparency.">
-	<meta property="og:image" content="https://www.jodiaenergies.com/img/banner/slide-01.jpg">
-	<meta property="og:type" content="website">
-	<meta property="og:url" content="https://www.jodiaenergies.com/diesel-supply">
+    <meta property="og:title" content="Bulk Diesel Supply in Nigeria | Reliable Fuel Delivery">
+    <meta property="og:description"
+        content="Fast, quality‑assured AGO delivery for businesses nationwide with safety and transparency.">
+    <meta property="og:image" content="https://www.jodiaenergies.com/img/banner/slide-01.jpg">
+    <meta property="og:type" content="website">
+    <meta property="og:url" content="https://www.jodiaenergies.com/diesel-supply">
 
-	<meta name="twitter:card" content="summary_large_image">
-	<meta name="twitter:title" content="Bulk Diesel Supply in Nigeria | Reliable Fuel Delivery">
-	<meta name="twitter:description" content="Fast, quality‑assured AGO delivery for businesses nationwide with safety and transparency.">
-	<meta name="twitter:image" content="https://www.jodiaenergies.com/img/banner/slide-01.jpg">
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:title" content="Bulk Diesel Supply in Nigeria | Reliable Fuel Delivery">
+    <meta name="twitter:description"
+        content="Fast, quality‑assured AGO delivery for businesses nationwide with safety and transparency.">
+    <meta name="twitter:image" content="https://www.jodiaenergies.com/img/banner/slide-01.jpg">
 
-	<script type="application/ld+json">
+    <script type="application/ld+json">
 {
  "@context": "https://schema.org",
  "@type": "Service",
@@ -38,7 +42,7 @@
  "serviceType": "Diesel Delivery",
  "description": "Quality-assured AGO supply and delivery for businesses across Nigeria."
 }
-	</script>
+    </script>
     <!-- favicon -->
     <link rel="shortcut icon" href="img/logos/favicon.png">
     <link rel="apple-touch-icon" href="img/logos/apple-touch-icon-57x57.png">
@@ -153,34 +157,7 @@
                                     ability to manage complex logistics to guarantee your power needs are always met.
                                 </p>
                             </div>
-                            <div class="row mb-1-9 mt-n4">
-                                <div class="col-xl-6 mt-4 wow fadeIn" data-wow-delay="200ms">
-                                    <div class="d-sm-flex align-items-center bg-light rounded">
-                                        <div class="flex-shrink-0 d-none d-sm-block">
-                                            <img src="img/service/service-details-07.jpg" alt="Logistics management"
-                                                class="rounded-start">
-                                        </div>
-                                        <div class="flex-grow-1 p-4">
-                                            <h4 class="h5">Efficient Logistics</h4>
-                                            <p class="mb-0">Utilizing our haulage expertise for on-time delivery across
-                                                diverse locations.</p>
-                                        </div>
-                                    </div>
-                                </div>
-                                <div class="col-xl-6 mt-4 wow fadeIn" data-wow-delay="200ms">
-                                    <div class="d-sm-flex align-items-center bg-light rounded">
-                                        <div class="flex-shrink-0 d-none d-sm-block">
-                                            <img src="img/service/service-details-08.jpg" alt="Tank calibration process"
-                                                class="rounded-start">
-                                        </div>
-                                        <div class="flex-grow-1 p-4">
-                                            <h4 class="h5">Guaranteed Accuracy</h4>
-                                            <p class="mb-0">Precision fuel delivery backed by verifiable tank
-                                                calibration and measurements.</p>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
+
                             <p class="mb-2-3 wow fadeIn" data-wow-delay="200ms">Our downstream operations are optimized
                                 to handle large volumes and complex delivery schedules. We use advanced routing software
                                 and maintain a modern, well-serviced fleet of tankers to minimize transit times and

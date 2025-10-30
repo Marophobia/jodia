@@ -6,28 +6,32 @@
 
 <head>
 
-	<!-- metas -->
-	<meta charset="utf-8">
-	<meta name="author" content="Jodia Energies & Logistics Ltd">
-	<meta http-equiv="X-UA-Compatible" content="IE=edge">
-	<meta name="viewport" content="width=device-width, initial-scale=1.0">
-	<title>Diesel Storage Tank Installation | Safe Fuel Tanks</title>
-	<link rel="canonical" href="https://www.jodiaenergies.com/diesel-storage-tanks" />
-	<meta name="description" content="Design and installation of compliant diesel storage tanks with testing and commissioning.">
-	<meta name="keywords" content="diesel storage tanks, tank installation Nigeria, fuel storage solutions, tank testing">
+    <!-- metas -->
+    <meta charset="utf-8">
+    <meta name="author" content="Jodia Energies & Logistics Ltd">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Diesel Storage Tank Installation | Safe Fuel Tanks</title>
+    <link rel="canonical" href="https://www.jodiaenergies.com/diesel-storage-tanks" />
+    <meta name="description"
+        content="Design and installation of compliant diesel storage tanks with testing and commissioning.">
+    <meta name="keywords"
+        content="diesel storage tanks, tank installation Nigeria, fuel storage solutions, tank testing">
 
-	<meta property="og:title" content="Diesel Storage Tank Installation | Safe Fuel Tanks">
-	<meta property="og:description" content="Design and installation of compliant diesel storage tanks with testing and commissioning.">
-	<meta property="og:image" content="https://www.jodiaenergies.com/img/banner/slide-01.jpg">
-	<meta property="og:type" content="website">
-	<meta property="og:url" content="https://www.jodiaenergies.com/diesel-storage-tanks">
+    <meta property="og:title" content="Diesel Storage Tank Installation | Safe Fuel Tanks">
+    <meta property="og:description"
+        content="Design and installation of compliant diesel storage tanks with testing and commissioning.">
+    <meta property="og:image" content="https://www.jodiaenergies.com/img/banner/slide-01.jpg">
+    <meta property="og:type" content="website">
+    <meta property="og:url" content="https://www.jodiaenergies.com/diesel-storage-tanks">
 
-	<meta name="twitter:card" content="summary_large_image">
-	<meta name="twitter:title" content="Diesel Storage Tank Installation | Safe Fuel Tanks">
-	<meta name="twitter:description" content="Design and installation of compliant diesel storage tanks with testing and commissioning.">
-	<meta name="twitter:image" content="https://www.jodiaenergies.com/img/banner/slide-01.jpg">
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:title" content="Diesel Storage Tank Installation | Safe Fuel Tanks">
+    <meta name="twitter:description"
+        content="Design and installation of compliant diesel storage tanks with testing and commissioning.">
+    <meta name="twitter:image" content="https://www.jodiaenergies.com/img/banner/slide-01.jpg">
 
-	<script type="application/ld+json">
+    <script type="application/ld+json">
 {
  "@context": "https://schema.org",
  "@type": "Service",
@@ -38,7 +42,7 @@
  "serviceType": "Fuel Storage Tanks",
  "description": "Compliant diesel storage tank design, installation and commissioning."
 }
-	</script>
+    </script>
     <!-- favicon -->
     <link rel="shortcut icon" href="img/logos/favicon.png">
     <link rel="apple-touch-icon" href="img/logos/apple-touch-icon-57x57.png">
@@ -153,34 +157,7 @@
                                     storage infrastructure tailored to your specific operational needs, guaranteeing
                                     reliable fuel management.</p>
                             </div>
-                            <div class="row mb-1-9 mt-n4">
-                                <div class="col-xl-6 mt-4 wow fadeIn" data-wow-delay="200ms">
-                                    <div class="d-sm-flex align-items-center bg-light rounded">
-                                        <div class="flex-shrink-0 d-none d-sm-block">
-                                            <img src="img/service/service-details-07.jpg"
-                                                alt="Site preparation for tank installation" class="rounded-start">
-                                        </div>
-                                        <div class="flex-grow-1 p-4">
-                                            <h4 class="h5">Custom Design & Fabrication</h4>
-                                            <p class="mb-0">Tailored tank solutions to match specific capacity and site
-                                                requirements.</p>
-                                        </div>
-                                    </div>
-                                </div>
-                                <div class="col-xl-6 mt-4 wow fadeIn" data-wow-delay="200ms">
-                                    <div class="d-sm-flex align-items-center bg-light rounded">
-                                        <div class="flex-shrink-0 d-none d-sm-block">
-                                            <img src="img/service/service-details-08.jpg"
-                                                alt="Safety regulations for fuel storage" class="rounded-start">
-                                        </div>
-                                        <div class="flex-grow-1 p-4">
-                                            <h4 class="h5">Regulatory Compliance & Safety</h4>
-                                            <p class="mb-0">Installations that meet all local and international safety
-                                                standards.</p>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
+
                             <p class="mb-2-3 wow fadeIn" data-wow-delay="200ms">Our team of certified engineers and
                                 technicians manages every aspect of the installation process. This includes thorough
                                 civil works, precise mechanical assembly, integration of advanced fuel dispensing
